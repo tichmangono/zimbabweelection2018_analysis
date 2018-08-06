@@ -14,7 +14,18 @@ There main files are the Excel files in the root folder as well as a JupyterLap 
 - These are located in the folders for presidential, parliamentary etc.
 - The files contain the source data which was tranformed using python and analyzed/explored using excel 
 
-## NOTE: This analysis is only preliminary and needs to be checked!
+## Preliminary Findings:
+1. About 36 polling stations had over 100% voter turnout
+2. About 86 polling stations had over 95% voter turnout
+3. About 750 polling stations had over 90% voter turnout
+4. Some preliminary application of Benford's Law show some irregular distribution of the leading digits of total votes cast per polling station. While this may highlight some anomalies, some statisticians actually discourage the use of Benford's law to detect Electoral anomalies. See here https://en.wikipedia.org/wiki/Benford%27s_law
+### Please check all this for yourself before using). These are NOT OFFICIAL RESULTS and none of the parties involved in this analysis, nor the sources mentioned will take responsibility for any wrong or inappropriate conclusions drawn from this data and associated analysis
+
+
+
+## Limitations of this Analysis:
+- NOTE: This analysis is only preliminary and needs to be checked!
+- Some files are incomplete, especailly the indepedent data being collected by Citizens Manifesto currently only covers a little over 1350 polling stations, only 12% of the almost 11,000 polling stations
 - Still need to check and validate data sources, and rule out any errors in transforming the data
 - Still need to transform and collate Parliamentary results and compare voting numbers to presidential at the same polling station
 
