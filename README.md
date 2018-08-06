@@ -3,7 +3,7 @@ Collaborative project using multiple sources of data to identify any anomalies a
 
 ## Main Files
 There main files are the Excel files in the root folder as well as a JupyterLap Notebook. These have the follwing functions
-1. ***Election JupyterLab NoteBook** - for the python code to transform source files into convenient, clean format ready for analysis*
+1. ***Election Data Transformation JupyterLab NoteBook** - for the python code to transform source files into convenient, clean format ready for analysis*
 2. ***Election Results Main Citizen Excel file** - looks at anomalies e.g. extremely high and obviously impossible voter turnout rates like >90%, >95%, >100%.It also compares the official data from the Zimbabwe Electoral Commission with data from Citizen's Manifesto collation, crowdsourced. The tabs in the file are color-coded:*
       - ***Green tabs** indicate source data*
       - ***Orange tabs** indicate aggregated data e.g by polling station, constituency, ward, province etc.*
