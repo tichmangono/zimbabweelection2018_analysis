@@ -30,7 +30,7 @@ There main files are the Excel files in the root folder as well as a JupyterLap 
 - Still need to transform and collate Parliamentary results and compare voting numbers to presidential at the same polling station
 
 ## Collaborate for public good 
-This project is for the public good and builds on the dilligent work started by Citizen's Manifesto Zimbabwe, so feel free to download anython and point out errors as well as any additional anomalies found
+This project is an analytic and intellectual exercise for the public good and builds on the dilligent work started by Citizen's Manifesto Zimbabwe, so feel free to download anything and point out errors as well as any additional anomalies found
 
 ## Data Sources/Credit:
 1. Citizens' Manifesto Zimbabwe: http://www.citizens-manifesto.org/
