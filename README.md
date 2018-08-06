@@ -1,5 +1,5 @@
 # zimbabweelection2018_analysis
-Collaborative project using multiple sources of data to identify any anomalies in election data released for Zimabwe's July 2018 elections.
+Collaborative project using multiple sources of data to identify any anomalies in election data released for Zimbabwe's July 2018 elections.
 
 ## Main Files
 There main files are the Excel files in the root folder as well as a JupyterLap Notebook. These have the follwing functions
