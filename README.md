@@ -19,7 +19,7 @@ There main files are the Excel files in the root folder as well as a JupyterLap 
 2. About 86 polling stations may have had over 95% voter turnout
 3. About 750 polling stations may have had over 90% voter turnout
 4. Some preliminary application of Benford's Law show some irregular distribution of the leading digits of total votes cast per polling station, but not in the individual candidates total votes. While this may highlight some anomalies, some statisticians actually discourage the use of Benford's law to detect Electoral anomalies. See here https://en.wikipedia.org/wiki/Benford%27s_law
-### Please check all this for yourself before using). These are NOT OFFICIAL RESULTS and none of the parties involved in this analysis, nor the sources mentioned will take responsibility for any wrong or inappropriate conclusions drawn from this data and associated analysis
+### Please check all this for yourself before using!! These are NOT OFFICIAL RESULTS and none of the parties involved in this analysis, nor the sources mentioned will take responsibility for any wrong or inappropriate conclusions drawn from this data and associated analysis
 
 
 
