@@ -2,9 +2,9 @@
 Collaborative project using multiple sources of data to identify any anomalies and variance in election data released for Zimbabwe's July 2018 elections.
 
 ## Main Files
-There main files are the Excel files in the root folder as well as a JupyterLap Notebook. These have the follwing functions
-1. ***Election JupyterLab NoteBook** - for the python code to transform source files into convenient, clean format ready for analysis*
-2. ***Election Results Main Citizen Excel file** - looks at anomalies e.g. extremely high and obviously impossible voter turnout rates like >90%, >95%, >100%.It also compares the official data from the Zimbabwe Electoral Commission with data from Citizen's Manifesto collation, crowdsourced. The tabs in the file are color-coded:*
+There main files are the Excel files in the root folder as well as a JupyterLap Notebook. These have the following functions
+1. ***Election Data Transformation JupyterLab NoteBook** - for the python code to transform source files into convenient, clean format ready for analysis*
+2. ***Election Results Main Citizen Excel file** - looks at anomalies e.g. extremely high and obviously impossible voter turnout rates like >90%, >95%, >100%.It also compares the official data from the Zimbabwe Electoral Commission with data from Citizen's Manifesto collation, crowdsourced. One of the data files imports data from a googlesheet and needs a regular update process, following which all pivot tables must be refreshed. The tabs in the file are color-coded into 3 groups:*
       - ***Green tabs** indicate source data*
       - ***Orange tabs** indicate aggregated data e.g by polling station, constituency, ward, province etc.*
       - ***Blue tabs** indicate analysis data e.g. high turnnout poling stations and comparison with independent findings when applicable*
