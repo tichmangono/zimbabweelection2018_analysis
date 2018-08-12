@@ -1,5 +1,5 @@
 # zimbabweelection2018_analysis
-Collaborative project using multiple sources of data to identify any anomalies and variance in election data released for Zimbabwe's July 2018 elections.
+Investigative analysis of Zimbabwe's July 2018 harmonized elections using Python and data from Zimbabwe Electoral Commission (ZEC)
 
 ## Main Files
 There main files are the Excel files in the root folder as well as a JupyterLap Notebook. These have the following functions
@@ -21,8 +21,7 @@ There main files are the Excel files in the root folder as well as a JupyterLap 
 ## Limitations of this Analysis:
 - TBD
 
-## Collaborate for public good 
-This project is an analytic and intellectual exercise for the public good 
+## This project is an analytic and intellectual exercise for the public good 
 
 ## Data Sources/Credit:
 1. Citizens' Manifesto Zimbabwe: http://www.citizens-manifesto.org/
