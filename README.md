@@ -3,12 +3,12 @@ Collaborative project using multiple sources of data to identify any anomalies a
 
 ## Main Files
 There main files are the Excel files in the root folder as well as a JupyterLap Notebook. These have the following functions
-1. ***Election Data Transformation JupyterLab NoteBook** - for the python code to transform source files into convenient, clean format ready for analysis*
-2. ***Election Results Main Citizen Excel file** - looks at anomalies e.g. extremely high and obviously impossible voter turnout rates like >90%, >95%, >100%.It also compares the official data from the Zimbabwe Electoral Commission with data from Citizen's Manifesto collation, crowdsourced. One of the data files imports data from a googlesheet and needs a regular update process, following which all pivot tables must be refreshed. The tabs in the file are color-coded into 3 groups:*
+1. ***code_presidential_transform.ipynb** - for the python code to transform source files into convenient, clean format ready for analysis*
+2. ***zimelectionresults2018_analysis_main_citizens.xlsb** - looks at anomalies e.g. extremely high and obviously impossible voter turnout rates like >90%, >95%, >100%.It also compares the official data from the Zimbabwe Electoral Commission with data from Citizen's Manifesto collation, crowdsourced. One of the data files imports data from a googlesheet and needs a regular update process, following which all pivot tables must be refreshed. The tabs in the file are color-coded into 3 groups:*
       - ***Green tabs** indicate source data*
       - ***Orange tabs** indicate aggregated data e.g by polling station, constituency, ward, province etc.*
       - ***Blue tabs** indicate analysis data e.g. high turnnout poling stations and comparison with independent findings when applicable*
-3. ***Election Results 2018 By Polling Station** - This is the clean, collated, transofrmed version of the source data files for presidential elections*
+3. ***zimelectionresults2018_bypollingstation.xlsx** - This is the clean, collated, transofrmed version of the source data files for presidential elections*
 
 ## Source Files
 - These are located in the folders for presidential, parliamentary etc.
