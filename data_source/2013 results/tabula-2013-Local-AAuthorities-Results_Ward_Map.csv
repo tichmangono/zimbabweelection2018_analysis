@@ -1,0 +1,4823 @@
+local_authority,ward,candidate_srn
+Bulawayo Municipality,1,1
+Bulawayo Municipality,1,2
+Bulawayo Municipality,1,3
+Bulawayo Municipality,1,4
+Bulawayo Municipality,2,5
+Bulawayo Municipality,2,6
+Bulawayo Municipality,2,7
+Bulawayo Municipality,2,8
+Bulawayo Municipality,3,9
+Bulawayo Municipality,3,10
+Bulawayo Municipality,3,11
+Bulawayo Municipality,3,12
+Bulawayo Municipality,3,13
+Bulawayo Municipality,4,14
+Bulawayo Municipality,4,15
+Bulawayo Municipality,4,16
+Bulawayo Municipality,4,17
+Bulawayo Municipality,5,18
+Bulawayo Municipality,5,19
+Bulawayo Municipality,5,20
+Bulawayo Municipality,6,21
+Bulawayo Municipality,6,22
+Bulawayo Municipality,6,23
+Bulawayo Municipality,6,24
+Bulawayo Municipality,6,25
+Bulawayo Municipality,7,26
+Bulawayo Municipality,7,27
+Bulawayo Municipality,7,28
+Bulawayo Municipality,7,29
+Bulawayo Municipality,7,30
+Bulawayo Municipality,8,31
+Bulawayo Municipality,8,32
+Bulawayo Municipality,8,33
+Bulawayo Municipality,8,34
+Bulawayo Municipality,8,35
+Bulawayo Municipality,9,36
+Bulawayo Municipality,9,37
+Bulawayo Municipality,9,38
+Bulawayo Municipality,9,39
+Bulawayo Municipality,10,40
+Bulawayo Municipality,10,41
+Bulawayo Municipality,10,42
+Bulawayo Municipality,10,43
+Bulawayo Municipality,11,44
+Bulawayo Municipality,11,45
+Bulawayo Municipality,11,46
+Bulawayo Municipality,11,47
+Bulawayo Municipality,12,48
+Bulawayo Municipality,12,49
+Bulawayo Municipality,12,50
+Bulawayo Municipality,12,51
+Bulawayo Municipality,13,52
+Bulawayo Municipality,13,53
+Bulawayo Municipality,13,54
+Bulawayo Municipality,13,55
+Bulawayo Municipality,14,56
+Bulawayo Municipality,14,57
+Bulawayo Municipality,14,58
+Bulawayo Municipality,14,59
+Bulawayo Municipality,15,60
+Bulawayo Municipality,15,61
+Bulawayo Municipality,15,62
+Bulawayo Municipality,15,63
+Bulawayo Municipality,15,64
+Bulawayo Municipality,16,65
+Bulawayo Municipality,16,66
+Bulawayo Municipality,16,67
+Bulawayo Municipality,16,68
+Bulawayo Municipality,16,69
+Bulawayo Municipality,17,70
+Bulawayo Municipality,17,71
+Bulawayo Municipality,17,72
+Bulawayo Municipality,17,73
+Bulawayo Municipality,17,74
+Bulawayo Municipality,18,75
+Bulawayo Municipality,18,76
+Bulawayo Municipality,18,77
+Bulawayo Municipality,18,78
+Bulawayo Municipality,18,79
+Bulawayo Municipality,18,80
+Bulawayo Municipality,19,81
+Bulawayo Municipality,19,82
+Bulawayo Municipality,19,83
+Bulawayo Municipality,19,84
+Bulawayo Municipality,20,85
+Bulawayo Municipality,20,86
+Bulawayo Municipality,20,87
+Bulawayo Municipality,20,88
+Bulawayo Municipality,21,89
+Bulawayo Municipality,21,90
+Bulawayo Municipality,21,91
+Bulawayo Municipality,21,92
+Bulawayo Municipality,22,93
+Bulawayo Municipality,22,94
+Bulawayo Municipality,22,95
+Bulawayo Municipality,22,96
+Bulawayo Municipality,23,97
+Bulawayo Municipality,23,98
+Bulawayo Municipality,23,99
+Bulawayo Municipality,23,100
+Bulawayo Municipality,23,101
+Bulawayo Municipality,24,102
+Bulawayo Municipality,24,103
+Bulawayo Municipality,24,104
+Bulawayo Municipality,24,105
+Bulawayo Municipality,25,106
+Bulawayo Municipality,25,107
+Bulawayo Municipality,25,108
+Bulawayo Municipality,25,109
+Bulawayo Municipality,26,110
+Bulawayo Municipality,26,111
+Bulawayo Municipality,26,112
+Bulawayo Municipality,26,113
+Bulawayo Municipality,26,114
+Bulawayo Municipality,26,115
+Bulawayo Municipality,27,116
+Bulawayo Municipality,27,117
+Bulawayo Municipality,27,118
+Bulawayo Municipality,27,119
+Bulawayo Municipality,28,120
+Bulawayo Municipality,28,121
+Bulawayo Municipality,28,122
+Bulawayo Municipality,28,123
+Bulawayo Municipality,28,124
+Bulawayo Municipality,28,125
+Bulawayo Municipality,29,126
+Bulawayo Municipality,29,127
+Bulawayo Municipality,29,128
+Bulawayo Municipality,29,129
+Chitungwiza Municipality,1,130
+Chitungwiza Municipality,1,131
+Chitungwiza Municipality,1,132
+Chitungwiza Municipality,2,133
+Chitungwiza Municipality,2,134
+Chitungwiza Municipality,2,135
+Chitungwiza Municipality,2,136
+Chitungwiza Municipality,3,137
+Chitungwiza Municipality,3,138
+Chitungwiza Municipality,3,139
+Chitungwiza Municipality,3,140
+Chitungwiza Municipality,4,141
+Chitungwiza Municipality,4,142
+Chitungwiza Municipality,4,143
+Chitungwiza Municipality,5,144
+Chitungwiza Municipality,5,145
+Chitungwiza Municipality,5,146
+Chitungwiza Municipality,6,147
+Chitungwiza Municipality,6,148
+Chitungwiza Municipality,6,149
+Chitungwiza Municipality,6,150
+Chitungwiza Municipality,6,151
+Chitungwiza Municipality,7,152
+Chitungwiza Municipality,7,153
+Chitungwiza Municipality,7,154
+Chitungwiza Municipality,7,155
+Chitungwiza Municipality,7,156
+Chitungwiza Municipality,8,157
+Chitungwiza Municipality,8,158
+Chitungwiza Municipality,9,159
+Chitungwiza Municipality,9,160
+Chitungwiza Municipality,9,161
+Chitungwiza Municipality,10,162
+Chitungwiza Municipality,10,163
+Chitungwiza Municipality,11,164
+Chitungwiza Municipality,11,165
+Chitungwiza Municipality,11,166
+Chitungwiza Municipality,11,167
+Chitungwiza Municipality,12,168
+Chitungwiza Municipality,12,169
+Chitungwiza Municipality,12,170
+Chitungwiza Municipality,12,171
+Chitungwiza Municipality,13,172
+Chitungwiza Municipality,13,173
+Chitungwiza Municipality,13,174
+Chitungwiza Municipality,14,175
+Chitungwiza Municipality,14,176
+Chitungwiza Municipality,14,177
+Chitungwiza Municipality,14,178
+Chitungwiza Municipality,15,179
+Chitungwiza Municipality,15,180
+Chitungwiza Municipality,15,181
+Chitungwiza Municipality,16,182
+Chitungwiza Municipality,16,183
+Chitungwiza Municipality,16,184
+Chitungwiza Municipality,16,185
+Chitungwiza Municipality,17,186
+Chitungwiza Municipality,17,187
+Chitungwiza Municipality,17,188
+Chitungwiza Municipality,18,189
+Chitungwiza Municipality,18,190
+Chitungwiza Municipality,18,191
+Chitungwiza Municipality,18,192
+Chitungwiza Municipality,19,193
+Chitungwiza Municipality,19,194
+Chitungwiza Municipality,19,195
+Chitungwiza Municipality,20,196
+Chitungwiza Municipality,20,197
+Chitungwiza Municipality,20,198
+Chitungwiza Municipality,20,199
+Chitungwiza Municipality,21,200
+Chitungwiza Municipality,21,201
+Chitungwiza Municipality,21,202
+Chitungwiza Municipality,22,203
+Chitungwiza Municipality,22,204
+Chitungwiza Municipality,22,205
+Chitungwiza Municipality,23,206
+Chitungwiza Municipality,23,207
+Chitungwiza Municipality,23,208
+Chitungwiza Municipality,23,209
+Chitungwiza Municipality,24,210
+Chitungwiza Municipality,24,211
+Chitungwiza Municipality,24,212
+Chitungwiza Municipality,25,213
+Chitungwiza Municipality,25,214
+Chitungwiza Municipality,25,215
+Chitungwiza Municipality,25,216
+Chitungwiza Municipality,25,217
+Epworth Local Board,1,218
+Epworth Local Board,1,219
+Epworth Local Board,1,220
+Epworth Local Board,2,221
+Epworth Local Board,2,222
+Epworth Local Board,2,223
+Epworth Local Board,3,224
+Epworth Local Board,3,225
+Epworth Local Board,3,226
+Epworth Local Board,4,227
+Epworth Local Board,4,228
+Epworth Local Board,5,229
+Epworth Local Board,5,230
+Epworth Local Board,6,231
+Epworth Local Board,6,232
+Epworth Local Board,6,233
+Epworth Local Board,7,234
+Epworth Local Board,7,235
+Epworth Local Board,7,236
+Harare Municipality,1,237
+Harare Municipality,1,238
+Harare Municipality,1,239
+Harare Municipality,2,240
+Harare Municipality,2,241
+Harare Municipality,2,242
+Harare Municipality,2,243
+Harare Municipality,2,244
+Harare Municipality,3,245
+Harare Municipality,3,246
+Harare Municipality,3,247
+Harare Municipality,4,248
+Harare Municipality,4,249
+Harare Municipality,4,250
+Harare Municipality,5,251
+Harare Municipality,5,252
+Harare Municipality,6,253
+Harare Municipality,6,254
+Harare Municipality,6,255
+Harare Municipality,7,256
+Harare Municipality,7,257
+Harare Municipality,7,258
+Harare Municipality,8,259
+Harare Municipality,8,260
+Harare Municipality,8,261
+Harare Municipality,9,262
+Harare Municipality,9,263
+Harare Municipality,9,264
+Harare Municipality,10,265
+Harare Municipality,10,266
+Harare Municipality,10,267
+Harare Municipality,10,268
+Harare Municipality,11,269
+Harare Municipality,11,270
+Harare Municipality,12,271
+Harare Municipality,12,272
+Harare Municipality,13,273
+Harare Municipality,13,274
+Harare Municipality,13,275
+Harare Municipality,14,276
+Harare Municipality,14,277
+Harare Municipality,14,278
+Harare Municipality,15,279
+Harare Municipality,15,280
+Harare Municipality,15,281
+Harare Municipality,15,282
+Harare Municipality,16,283
+Harare Municipality,16,284
+Harare Municipality,17,285
+Harare Municipality,17,286
+Harare Municipality,17,287
+Harare Municipality,18,288
+Harare Municipality,18,289
+Harare Municipality,18,290
+Harare Municipality,19,291
+Harare Municipality,19,292
+Harare Municipality,19,293
+Harare Municipality,19,294
+Harare Municipality,20,295
+Harare Municipality,20,296
+Harare Municipality,20,297
+Harare Municipality,20,298
+Harare Municipality,21,299
+Harare Municipality,21,300
+Harare Municipality,21,301
+Harare Municipality,21,302
+Harare Municipality,22,303
+Harare Municipality,22,304
+Harare Municipality,22,305
+Harare Municipality,23,306
+Harare Municipality,23,307
+Harare Municipality,23,308
+Harare Municipality,24,309
+Harare Municipality,24,310
+Harare Municipality,24,311
+Harare Municipality,25,312
+Harare Municipality,25,313
+Harare Municipality,25,314
+Harare Municipality,26,315
+Harare Municipality,26,316
+Harare Municipality,26,317
+Harare Municipality,27,318
+Harare Municipality,27,319
+Harare Municipality,27,320
+Harare Municipality,28,321
+Harare Municipality,28,322
+Harare Municipality,28,323
+Harare Municipality,29,324
+Harare Municipality,29,325
+Harare Municipality,29,326
+Harare Municipality,29,327
+Harare Municipality,30,328
+Harare Municipality,30,329
+Harare Municipality,30,330
+Harare Municipality,31,331
+Harare Municipality,31,332
+Harare Municipality,31,333
+Harare Municipality,31,334
+Harare Municipality,32,335
+Harare Municipality,32,336
+Harare Municipality,32,337
+Harare Municipality,32,338
+Harare Municipality,33,339
+Harare Municipality,33,340
+Harare Municipality,33,341
+Harare Municipality,33,342
+Harare Municipality,33,343
+Harare Municipality,34,344
+Harare Municipality,34,345
+Harare Municipality,34,346
+Harare Municipality,34,347
+Harare Municipality,35,348
+Harare Municipality,35,349
+Harare Municipality,35,350
+Harare Municipality,35,351
+Harare Municipality,36,352
+Harare Municipality,36,353
+Harare Municipality,36,354
+Harare Municipality,36,355
+Harare Municipality,37,356
+Harare Municipality,37,357
+Harare Municipality,37,358
+Harare Municipality,38,359
+Harare Municipality,38,360
+Harare Municipality,38,361
+Harare Municipality,38,362
+Harare Municipality,39,363
+Harare Municipality,39,364
+Harare Municipality,39,365
+Harare Municipality,40,366
+Harare Municipality,40,367
+Harare Municipality,40,368
+Harare Municipality,40,369
+Harare Municipality,40,370
+Harare Municipality,41,371
+Harare Municipality,41,372
+Harare Municipality,41,373
+Harare Municipality,42,374
+Harare Municipality,42,375
+Harare Municipality,42,376
+Harare Municipality,42,377
+Harare Municipality,43,378
+Harare Municipality,43,379
+Harare Municipality,44,380
+Harare Municipality,44,381
+Harare Municipality,44,382
+Harare Municipality,44,383
+Harare Municipality,45,384
+Harare Municipality,45,385
+Harare Municipality,46,386
+Harare Municipality,46,387
+Harare Municipality,46,388
+Harare Municipality,46,389
+Buhera RDC,1,390
+Buhera RDC,1,391
+Buhera RDC,1,392
+Buhera RDC,2,393
+Buhera RDC,2,394
+Buhera RDC,2,395
+Buhera RDC,3,396
+Buhera RDC,3,397
+Buhera RDC,3,398
+Buhera RDC,4,399
+Buhera RDC,4,400
+Buhera RDC,4,401
+Buhera RDC,4,402
+Buhera RDC,5,403
+Buhera RDC,5,404
+Buhera RDC,5,405
+Buhera RDC,5,406
+Buhera RDC,6,407
+Buhera RDC,6,408
+Buhera RDC,6,409
+Buhera RDC,7,410
+Buhera RDC,7,411
+Buhera RDC,8,412
+Buhera RDC,8,413
+Buhera RDC,9,414
+Buhera RDC,9,415
+Buhera RDC,10,416
+Buhera RDC,10,417
+Buhera RDC,10,418
+Buhera RDC,11,419
+Buhera RDC,11,420
+Buhera RDC,12,421
+Buhera RDC,12,422
+Buhera RDC,13,423
+Buhera RDC,13,424
+Buhera RDC,14,425
+Buhera RDC,14,426
+Buhera RDC,14,427
+Buhera RDC,14,428
+Buhera RDC,15,429
+Buhera RDC,15,430
+Buhera RDC,16,431
+Buhera RDC,16,432
+Buhera RDC,17,433
+Buhera RDC,17,434
+Buhera RDC,18,435
+Buhera RDC,18,436
+Buhera RDC,19,437
+Buhera RDC,19,438
+Buhera RDC,20,439
+Buhera RDC,20,440
+Buhera RDC,21,441
+Buhera RDC,21,442
+Buhera RDC,22,443
+Buhera RDC,22,444
+Buhera RDC,23,445
+Buhera RDC,23,446
+Buhera RDC,23,447
+Buhera RDC,24,448
+Buhera RDC,24,449
+Buhera RDC,25,450
+Buhera RDC,25,451
+Buhera RDC,25,452
+Buhera RDC,26,453
+Buhera RDC,26,454
+Buhera RDC,27,455
+Buhera RDC,27,456
+Buhera RDC,28,457
+Buhera RDC,28,458
+Buhera RDC,29,459
+Buhera RDC,29,460
+Buhera RDC,30,461
+Buhera RDC,30,462
+Buhera RDC,31,463
+Buhera RDC,31,464
+Buhera RDC,32,465
+Buhera RDC,32,466
+Buhera RDC,33,467
+Buhera RDC,33,468
+Chimanimani RDC,1,469
+Chimanimani RDC,1,470
+Chimanimani RDC,2,471
+Chimanimani RDC,2,472
+Chimanimani RDC,3,473
+Chimanimani RDC,3,474
+Chimanimani RDC,4,475
+Chimanimani RDC,4,476
+Chimanimani RDC,5,477
+Chimanimani RDC,5,478
+Chimanimani RDC,6,479
+Chimanimani RDC,6,480
+Chimanimani RDC,7,481
+Chimanimani RDC,7,482
+Chimanimani RDC,8,483
+Chimanimani RDC,8,484
+Chimanimani RDC,9,485
+Chimanimani RDC,9,486
+Chimanimani RDC,10,487
+Chimanimani RDC,10,488
+Chimanimani RDC,11,489
+Chimanimani RDC,12,490
+Chimanimani RDC,12,491
+Chimanimani RDC,13,492
+Chimanimani RDC,13,493
+Chimanimani RDC,14,494
+Chimanimani RDC,14,495
+Chimanimani RDC,15,496
+Chimanimani RDC,15,497
+Chimanimani RDC,16,498
+Chimanimani RDC,16,499
+Chimanimani RDC,17,500
+Chimanimani RDC,17,501
+Chimanimani RDC,18,502
+Chimanimani RDC,18,503
+Chimanimani RDC,19,504
+Chimanimani RDC,19,505
+Chimanimani RDC,20,506
+Chimanimani RDC,20,507
+Chimanimani RDC,20,508
+Chimanimani RDC,21,509
+Chimanimani RDC,21,510
+Chimanimani RDC,22,511
+Chimanimani RDC,22,512
+Chimanimani RDC,23,513
+Chimanimani RDC,23,514
+Chipinge RDC,1,515
+Chipinge RDC,1,516
+Chipinge RDC,2,517
+Chipinge RDC,2,518
+Chipinge RDC,2,519
+Chipinge RDC,3,520
+Chipinge RDC,3,521
+Chipinge RDC,3,522
+Chipinge RDC,3,523
+Chipinge RDC,4,524
+Chipinge RDC,4,525
+Chipinge RDC,4,526
+Chipinge RDC,5,527
+Chipinge RDC,5,528
+Chipinge RDC,6,529
+Chipinge RDC,6,530
+Chipinge RDC,6,531
+Chipinge RDC,7,532
+Chipinge RDC,7,533
+CHIPINGE RDC,8,534
+Chipinge RDC,9,535
+Chipinge RDC,9,536
+Chipinge RDC,10,537
+Chipinge RDC,10,538
+Chipinge RDC,10,539
+Chipinge RDC,11,540
+Chipinge RDC,11,541
+Chipinge RDC,12,542
+Chipinge RDC,12,543
+Chipinge RDC,13,544
+Chipinge RDC,13,545
+Chipinge RDC,14,546
+Chipinge RDC,14,547
+Chipinge RDC,15,548
+Chipinge RDC,15,549
+Chipinge RDC,16,550
+Chipinge RDC,16,551
+Chipinge RDC,16,552
+Chipinge RDC,17,553
+Chipinge RDC,17,554
+Chipinge RDC,18,555
+Chipinge RDC,18,556
+Chipinge RDC,19,557
+Chipinge RDC,19,558
+Chipinge RDC,19,559
+Chipinge RDC,20,560
+Chipinge RDC,20,561
+Chipinge RDC,20,562
+Chipinge RDC,20,563
+Chipinge RDC,21,564
+Chipinge RDC,21,565
+Chipinge RDC,21,566
+Chipinge RDC,22,567
+Chipinge RDC,22,568
+Chipinge RDC,22,569
+Chipinge RDC,23,570
+Chipinge RDC,23,571
+Chipinge RDC,23,572
+Chipinge RDC,23,573
+Chipinge RDC,24,574
+Chipinge RDC,24,575
+Chipinge RDC,24,576
+Chipinge RDC,24,577
+Chipinge RDC,25,578
+Chipinge RDC,25,579
+Chipinge RDC,25,580
+Chipinge RDC,25,581
+Chipinge RDC,26,582
+Chipinge RDC,26,583
+Chipinge RDC,26,584
+Chipinge RDC,26,585
+Chipinge RDC,27,586
+Chipinge RDC,27,587
+Chipinge RDC,28,588
+Chipinge RDC,28,589
+Chipinge RDC,29,590
+Chipinge RDC,29,591
+Chipinge RDC,30,592
+Chipinge RDC,30,593
+Chipinge Town Council,1,594
+Chipinge Town Council,1,595
+Chipinge Town Council,1,596
+Chipinge Town Council,1,597
+Chipinge Town Council,2,598
+Chipinge Town Council,2,599
+Chipinge Town Council,2,600
+Chipinge Town Council,2,601
+Chipinge Town Council,3,602
+Chipinge Town Council,3,603
+Chipinge Town Council,3,604
+Chipinge Town Council,3,605
+Chipinge Town Council,4,606
+Chipinge Town Council,4,607
+Chipinge Town Council,4,608
+Chipinge Town Council,4,609
+Chipinge Town Council,5,610
+Chipinge Town Council,5,611
+Chipinge Town Council,5,612
+Chipinge Town Council,6,613
+Chipinge Town Council,6,614
+Chipinge Town Council,6,615
+Chipinge Town Council,7,616
+Chipinge Town Council,7,617
+Chipinge Town Council,8,618
+Chipinge Town Council,8,619
+Chipinge Town Council,8,620
+Chipinge Town Council,8,621
+Makoni RDC,1,622
+Makoni RDC,1,623
+Makoni RDC,2,624
+Makoni RDC,2,625
+Makoni RDC,3,626
+Makoni RDC,3,627
+Makoni RDC,4,628
+Makoni RDC,4,629
+Makoni RDC,4,630
+Makoni RDC,5,631
+Makoni RDC,5,632
+Makoni RDC,6,633
+Makoni RDC,6,634
+Makoni RDC,7,635
+Makoni RDC,7,636
+Makoni RDC,8,637
+Makoni RDC,8,638
+Makoni RDC,9,639
+Makoni RDC,9,640
+Makoni RDC,10,641
+Makoni RDC,10,642
+Makoni RDC,11,643
+Makoni RDC,11,644
+Makoni RDC,12,645
+Makoni RDC,12,646
+Makoni RDC,13,647
+Makoni RDC,13,648
+Makoni RDC,13,649
+Makoni RDC,14,650
+Makoni RDC,14,651
+Makoni RDC,14,652
+Makoni RDC,14,653
+Makoni RDC,15,654
+Makoni RDC,15,655
+Makoni RDC,15,656
+Makoni RDC,15,657
+Makoni RDC,16,658
+Makoni RDC,16,659
+Makoni RDC,16,660
+Makoni RDC,17,661
+Makoni RDC,17,662
+Makoni RDC,18,663
+Makoni RDC,18,664
+Makoni RDC,18,665
+Makoni RDC,19,666
+Makoni RDC,19,667
+Makoni RDC,19,668
+Makoni RDC,20,669
+Makoni RDC,20,670
+Makoni RDC,21,671
+Makoni RDC,21,672
+Makoni RDC,22,673
+Makoni RDC,22,674
+Makoni RDC,22,675
+Makoni RDC,23,676
+Makoni RDC,23,677
+Makoni RDC,24,678
+Makoni RDC,24,679
+Makoni RDC,24,680
+Makoni RDC,25,681
+Makoni RDC,25,682
+Makoni RDC,25,683
+Makoni RDC,26,684
+Makoni RDC,26,685
+Makoni RDC,26,686
+Makoni RDC,27,687
+Makoni RDC,27,688
+Makoni RDC,27,689
+Makoni RDC,28,690
+Makoni RDC,28,691
+Makoni RDC,29,692
+Makoni RDC,29,693
+Makoni RDC,30,694
+Makoni RDC,30,695
+Makoni RDC,30,696
+Makoni RDC,30,697
+Makoni RDC,31,698
+Makoni RDC,31,699
+Makoni RDC,31,700
+Makoni RDC,31,701
+Makoni RDC,32,702
+Makoni RDC,32,703
+Makoni RDC,32,704
+Makoni RDC,33,705
+Makoni RDC,33,706
+Makoni RDC,33,707
+Makoni RDC,33,708
+Makoni RDC,34,709
+Makoni RDC,34,710
+Makoni RDC,35,711
+Makoni RDC,35,712
+Makoni RDC,36,713
+Makoni RDC,36,714
+Makoni RDC,37,715
+Makoni RDC,38,716
+Makoni RDC,38,717
+Makoni RDC,39,718
+Makoni RDC,39,719
+Mutare Municipality,1,720
+Mutare Municipality,1,721
+Mutare Municipality,1,722
+Mutare Municipality,2,723
+Mutare Municipality,2,724
+Mutare Municipality,2,725
+Mutare Municipality,2,726
+Mutare Municipality,2,727
+Mutare Municipality,3,728
+Mutare Municipality,3,729
+Mutare Municipality,3,730
+Mutare Municipality,3,731
+Mutare Municipality,4,732
+Mutare Municipality,4,733
+Mutare Municipality,4,734
+Mutare Municipality,4,735
+Mutare Municipality,4,736
+Mutare Municipality,5,737
+Mutare Municipality,5,738
+Mutare Municipality,5,739
+Mutare Municipality,6,740
+Mutare Municipality,6,741
+Mutare Municipality,6,742
+Mutare Municipality,6,743
+Mutare Municipality,6,744
+Mutare Municipality,7,745
+Mutare Municipality,7,746
+Mutare Municipality,7,747
+Mutare Municipality,7,748
+Mutare Municipality,8,749
+Mutare Municipality,8,750
+Mutare Municipality,8,751
+Mutare Municipality,8,752
+Mutare Municipality,8,753
+Mutare Municipality,9,754
+Mutare Municipality,9,755
+Mutare Municipality,9,756
+Mutare Municipality,10,757
+Mutare Municipality,10,758
+Mutare Municipality,11,759
+Mutare Municipality,11,760
+Mutare Municipality,11,761
+Mutare Municipality,12,762
+Mutare Municipality,12,763
+Mutare Municipality,12,764
+Mutare Municipality,13,765
+Mutare Municipality,13,766
+Mutare Municipality,13,767
+Mutare Municipality,14,768
+Mutare Municipality,14,769
+Mutare Municipality,14,770
+Mutare Municipality,15,771
+Mutare Municipality,15,772
+Mutare Municipality,16,773
+Mutare Municipality,16,774
+Mutare Municipality,16,775
+Mutare Municipality,17,776
+Mutare Municipality,17,777
+Mutare Municipality,17,778
+Mutare Municipality,17,779
+Mutare Municipality,17,780
+Mutare Municipality,18,781
+Mutare Municipality,18,782
+Mutare Municipality,18,783
+Mutare Municipality,18,784
+Mutare Municipality,19,785
+Mutare Municipality,19,786
+Mutare Municipality,19,787
+Mutare RDC,1,788
+Mutare RDC,1,789
+Mutare RDC,1,790
+Mutare RDC,2,791
+Mutare RDC,2,792
+Mutare RDC,2,793
+Mutare RDC,3,794
+Mutare RDC,3,795
+Mutare RDC,3,796
+Mutare RDC,4,797
+Mutare RDC,4,798
+Mutare RDC,4,799
+Mutare RDC,5,800
+Mutare RDC,5,801
+Mutare RDC,6,802
+Mutare RDC,6,803
+Mutare RDC,7,804
+Mutare RDC,7,805
+Mutare RDC,8,806
+Mutare RDC,8,807
+Mutare RDC,9,808
+Mutare RDC,9,809
+Mutare RDC,10,810
+Mutare RDC,10,811
+Mutare RDC,11,812
+Mutare RDC,11,813
+Mutare RDC,12,814
+Mutare RDC,12,815
+Mutare RDC,12,816
+Mutare RDC,13,817
+Mutare RDC,13,818
+Mutare RDC,14,819
+Mutare RDC,14,820
+Mutare RDC,14,821
+Mutare RDC,14,822
+Mutare RDC,15,823
+Mutare RDC,15,824
+Mutare RDC,15,825
+Mutare RDC,15,826
+Mutare RDC,15,827
+Mutare RDC,16,828
+Mutare RDC,16,829
+Mutare RDC,17,830
+Mutare RDC,17,831
+Mutare RDC,18,832
+Mutare RDC,18,833
+Mutare RDC,19,834
+Mutare RDC,19,835
+Mutare RDC,20,836
+Mutare RDC,20,837
+Mutare RDC,21,838
+Mutare RDC,21,839
+Mutare RDC,21,840
+Mutare RDC,22,841
+Mutare RDC,22,842
+Mutare RDC,23,843
+Mutare RDC,23,844
+Mutare RDC,24,845
+Mutare RDC,24,846
+Mutare RDC,25,847
+Mutare RDC,25,848
+Mutare RDC,26,849
+Mutare RDC,26,850
+Mutare RDC,26,851
+Mutare RDC,27,852
+Mutare RDC,27,853
+Mutare RDC,27,854
+Mutare RDC,27,855
+Mutare RDC,28,856
+Mutare RDC,28,857
+Mutare RDC,29,858
+Mutare RDC,29,859
+Mutare RDC,30,860
+Mutare RDC,30,861
+Mutare RDC,31,862
+Mutare RDC,31,863
+Mutare RDC,32,864
+Mutare RDC,32,865
+Mutare RDC,32,866
+Mutare RDC,33,867
+Mutare RDC,33,868
+Mutare RDC,33,869
+Mutare RDC,34,870
+Mutare RDC,34,871
+Mutare RDC,34,872
+Mutare RDC,35,873
+Mutare RDC,35,874
+Mutare RDC,36,875
+Mutare RDC,36,876
+Mutare RDC,36,877
+Mutasa RDC,1,878
+Mutasa RDC,1,879
+Mutasa RDC,2,880
+Mutasa RDC,2,881
+Mutasa RDC,3,882
+Mutasa RDC,3,883
+Mutasa RDC,4,884
+Mutasa RDC,4,885
+Mutasa RDC,5,886
+Mutasa RDC,5,887
+Mutasa RDC,5,888
+Mutasa RDC,5,889
+Mutasa RDC,6,890
+Mutasa RDC,6,891
+Mutasa RDC,6,892
+Mutasa RDC,7,893
+Mutasa RDC,7,894
+Mutasa RDC,7,895
+Mutasa RDC,8,896
+Mutasa RDC,8,897
+Mutasa RDC,8,898
+Mutasa RDC,8,899
+Mutasa RDC,9,900
+Mutasa RDC,9,901
+Mutasa RDC,9,902
+Mutasa RDC,10,903
+Mutasa RDC,10,904
+Mutasa RDC,11,905
+Mutasa RDC,11,906
+Mutasa RDC,12,907
+Mutasa RDC,12,908
+Mutasa RDC,13,909
+Mutasa RDC,13,910
+Mutasa RDC,14,911
+Mutasa RDC,14,912
+Mutasa RDC,14,913
+Mutasa RDC,15,914
+Mutasa RDC,15,915
+Mutasa RDC,16,916
+Mutasa RDC,16,917
+Mutasa RDC,17,918
+Mutasa RDC,17,919
+Mutasa RDC,18,920
+Mutasa RDC,18,921
+Mutasa RDC,19,922
+Mutasa RDC,19,923
+Mutasa RDC,19,924
+Mutasa RDC,20,925
+Mutasa RDC,20,926
+Mutasa RDC,21,927
+Mutasa RDC,21,928
+Mutasa RDC,21,929
+Mutasa RDC,22,930
+Mutasa RDC,22,931
+Mutasa RDC,22,932
+Mutasa RDC,23,933
+Mutasa RDC,23,934
+Mutasa RDC,24,935
+Mutasa RDC,24,936
+Mutasa RDC,24,937
+Mutasa RDC,25,938
+Mutasa RDC,25,939
+Mutasa RDC,26,940
+Mutasa RDC,26,941
+Mutasa RDC,26,942
+Mutasa RDC,27,943
+Mutasa RDC,27,944
+Mutasa RDC,28,945
+Mutasa RDC,28,946
+Mutasa RDC,29,947
+Mutasa RDC,29,948
+Mutasa RDC,30,949
+Mutasa RDC,30,950
+Mutasa RDC,31,951
+Mutasa RDC,31,952
+Mutasa RDC,31,953
+Nyanga RDC,1,954
+Nyanga RDC,1,955
+Nyanga RDC,2,956
+Nyanga RDC,2,957
+Nyanga RDC,3,958
+Nyanga RDC,3,959
+Nyanga RDC,4,960
+Nyanga RDC,4,961
+Nyanga RDC,5,962
+Nyanga RDC,5,963
+Nyanga RDC,6,964
+Nyanga RDC,6,965
+Nyanga RDC,7,966
+Nyanga RDC,7,967
+Nyanga RDC,8,968
+Nyanga RDC,8,969
+Nyanga RDC,9,970
+Nyanga RDC,9,971
+Nyanga RDC,9,972
+Nyanga RDC,10,973
+Nyanga RDC,10,974
+Nyanga RDC,11,975
+Nyanga RDC,11,976
+Nyanga RDC,11,977
+Nyanga RDC,12,978
+Nyanga RDC,12,979
+Nyanga RDC,12,980
+Nyanga RDC,13,981
+Nyanga RDC,13,982
+Nyanga RDC,14,983
+Nyanga RDC,14,984
+Nyanga RDC,15,985
+Nyanga RDC,15,986
+Nyanga RDC,16,987
+Nyanga RDC,16,988
+Nyanga RDC,17,989
+Nyanga RDC,17,990
+Nyanga RDC,18,991
+Nyanga RDC,18,992
+Nyanga RDC,19,993
+Nyanga RDC,19,994
+Nyanga RDC,20,995
+Nyanga RDC,20,996
+Nyanga RDC,20,997
+Nyanga RDC,21,998
+Nyanga RDC,21,999
+Nyanga RDC,22,1000
+Nyanga RDC,22,1001
+Nyanga RDC,23,1002
+Nyanga RDC,23,1003
+Nyanga RDC,24,1004
+Nyanga RDC,24,1005
+Nyanga RDC,25,1006
+Nyanga RDC,25,1007
+Nyanga RDC,26,1008
+Nyanga RDC,26,1009
+Nyanga RDC,27,1010
+Nyanga RDC,27,1011
+Nyanga RDC,28,1012
+Nyanga RDC,28,1013
+Nyanga RDC,29,1014
+Nyanga RDC,29,1015
+Nyanga RDC,29,1016
+Nyanga RDC,30,1017
+Nyanga RDC,30,1018
+Nyanga RDC,31,1019
+Nyanga RDC,31,1020
+Rusape Town Council,1,1021
+Rusape Town Council,1,1022
+Rusape Town Council,2,1023
+Rusape Town Council,2,1024
+Rusape Town Council,3,1025
+Rusape Town Council,3,1026
+Rusape Town Council,3,1027
+Rusape Town Council,4,1028
+Rusape Town Council,4,1029
+Rusape Town Council,4,1030
+Rusape Town Council,4,1031
+Rusape Town Council,5,1032
+Rusape Town Council,5,1033
+Rusape Town Council,6,1034
+Rusape Town Council,6,1035
+Rusape Town Council,7,1036
+Rusape Town Council,7,1037
+Rusape Town Council,8,1038
+Rusape Town Council,8,1039
+Rusape Town Council,9,1040
+Rusape Town Council,9,1041
+Rusape Town Council,10,1042
+Rusape Town Council,10,1043
+Rusape Town Council,10,1044
+Bindura Municipality,1,1045
+Bindura Municipality,1,1046
+Bindura Municipality,2,1047
+Bindura Municipality,2,1048
+Bindura Municipality,3,1049
+Bindura Municipality,3,1050
+Bindura Municipality,4,1051
+Bindura Municipality,4,1052
+Bindura Municipality,4,1053
+Bindura Municipality,5,1054
+Bindura Municipality,5,1055
+Bindura Municipality,5,1056
+Bindura Municipality,6,1057
+Bindura Municipality,6,1058
+Bindura Municipality,7,1059
+Bindura Municipality,7,1060
+Bindura Municipality,8,1061
+Bindura Municipality,8,1062
+Bindura Municipality,9,1063
+Bindura Municipality,9,1064
+Bindura Municipality,10,1065
+Bindura Municipality,10,1066
+Bindura Municipality,11,1067
+Bindura Municipality,11,1068
+Bindura Municipality,11,1069
+Bindura Municipality,12,1070
+Bindura Municipality,12,1071
+Bindura RDC,1,1072
+Bindura RDC,1,1073
+Bindura RDC,2,1074
+Bindura RDC,2,1075
+Bindura RDC,3,1076
+Bindura RDC,3,1077
+Bindura RDC,4,1078
+Bindura RDC,4,1079
+Bindura RDC,5,1080
+Bindura RDC,5,1081
+Bindura RDC,6,1082
+Bindura RDC,6,1083
+Bindura RDC,6,1084
+Bindura RDC,7,1085
+Bindura RDC,7,1086
+Bindura RDC,8,1087
+Bindura RDC,8,1088
+Bindura RDC,9,1089
+Bindura RDC,9,1090
+Bindura RDC,10,1091
+Bindura RDC,10,1092
+Bindura RDC,11,1093
+Bindura RDC,11,1094
+Bindura RDC,12,1095
+Bindura RDC,12,1096
+Bindura RDC,13,1097
+Bindura RDC,13,1098
+Bindura RDC,14,1099
+Bindura RDC,14,1100
+Bindura RDC,15,1101
+Bindura RDC,15,1102
+Bindura RDC,16,1103
+Bindura RDC,16,1104
+Bindura RDC,17,1105
+Bindura RDC,17,1106
+Bindura RDC,18,1107
+Bindura RDC,18,1108
+Bindura RDC,19,1109
+Bindura RDC,19,1110
+Bindura RDC,20,1111
+Bindura RDC,20,1112
+Bindura RDC,21,1113
+Bindura RDC,21,1114
+Chaminuka RDC,1,1115
+Chaminuka RDC,1,1116
+Chaminuka RDC,2,1117
+Chaminuka RDC,2,1118
+Chaminuka RDC,3,1119
+Chaminuka RDC,3,1120
+Chaminuka RDC,4,1121
+Chaminuka RDC,4,1122
+Chaminuka RDC,5,1123
+Chaminuka RDC,5,1124
+Chaminuka RDC,6,1125
+Chaminuka RDC,6,1126
+Chaminuka RDC,7,1127
+Chaminuka RDC,8,1128
+Chaminuka RDC,8,1129
+Chaminuka RDC,9,1130
+Chaminuka RDC,9,1131
+Chaminuka RDC,10,1132
+Chaminuka RDC,10,1133
+Chaminuka RDC,11,1134
+Chaminuka RDC,11,1135
+Chaminuka RDC,12,1136
+Chaminuka RDC,12,1137
+Chaminuka RDC,13,1138
+Chaminuka RDC,13,1139
+Chaminuka RDC,14,1140
+Chaminuka RDC,14,1141
+Chaminuka RDC,15,1142
+Chaminuka RDC,15,1143
+Chaminuka RDC,16,1144
+Chaminuka RDC,16,1145
+Chaminuka RDC,17,1146
+Chaminuka RDC,17,1147
+Chaminuka RDC,18,1148
+Chaminuka RDC,18,1149
+Chaminuka RDC,19,1150
+Chaminuka RDC,19,1151
+Chaminuka RDC,20,1152
+Chaminuka RDC,20,1153
+Chaminuka RDC,21,1154
+Chaminuka RDC,21,1155
+Chaminuka RDC,22,1156
+Chaminuka RDC,22,1157
+Chaminuka RDC,23,1158
+Chaminuka RDC,23,1159
+Chaminuka RDC,24,1160
+Chaminuka RDC,24,1161
+Chaminuka RDC,25,1162
+Chaminuka RDC,25,1163
+Chaminuka RDC,26,1164
+Chaminuka RDC,26,1165
+Chaminuka RDC,27,1166
+Chaminuka RDC,27,1167
+Chaminuka RDC,28,1168
+Chaminuka RDC,28,1169
+Chaminuka RDC,29,1170
+Chaminuka RDC,29,1171
+Guruve RDC,1,1172
+Guruve RDC,1,1173
+Guruve RDC,2,1174
+Guruve RDC,2,1175
+Guruve RDC,3,1176
+Guruve RDC,3,1177
+Guruve RDC,4,1178
+Guruve RDC,4,1179
+Guruve RDC,5,1180
+Guruve RDC,5,1181
+Guruve RDC,5,1182
+Guruve RDC,6,1183
+Guruve RDC,6,1184
+Guruve RDC,6,1185
+Guruve RDC,7,1186
+Guruve RDC,7,1187
+Guruve RDC,7,1188
+Guruve RDC,8,1189
+Guruve RDC,8,1190
+Guruve RDC,9,1191
+Guruve RDC,9,1192
+Guruve RDC,10,1193
+Guruve RDC,10,1194
+Guruve RDC,11,1195
+Guruve RDC,11,1196
+Guruve RDC,12,1197
+Guruve RDC,12,1198
+Guruve RDC,13,1199
+Guruve RDC,13,1200
+Guruve RDC,14,1201
+Guruve RDC,14,1202
+Guruve RDC,15,1203
+Guruve RDC,15,1204
+Guruve RDC,16,1205
+Guruve RDC,16,1206
+Guruve RDC,17,1207
+Guruve RDC,17,1208
+Guruve RDC,17,1209
+Guruve RDC,18,1210
+Guruve RDC,18,1211
+Guruve RDC,18,1212
+Guruve RDC,19,1213
+Guruve RDC,20,1214
+Guruve RDC,20,1215
+Guruve RDC,20,1216
+Guruve RDC,21,1217
+Guruve RDC,22,1218
+Guruve RDC,22,1219
+Guruve RDC,23,1220
+Guruve RDC,23,1221
+Guruve RDC,23,1222
+Guruve RDC,24,1223
+Guruve RDC,24,1224
+Guruve RDC,24,1225
+Mazowe RDC,1,1226
+Mazowe RDC,1,1227
+Mazowe RDC,2,1228
+Mazowe RDC,2,1229
+Mazowe RDC,3,1230
+Mazowe RDC,3,1231
+Mazowe RDC,4,1232
+Mazowe RDC,4,1233
+Mazowe RDC,5,1234
+Mazowe RDC,5,1235
+Mazowe RDC,5,1236
+Mazowe RDC,6,1237
+Mazowe RDC,6,1238
+Mazowe RDC,7,1239
+Mazowe RDC,7,1240
+Mazowe RDC,7,1241
+Mazowe RDC,8,1242
+Mazowe RDC,8,1243
+Mazowe RDC,9,1244
+Mazowe RDC,9,1245
+Mazowe RDC,10,1246
+Mazowe RDC,10,1247
+Mazowe RDC,10,1248
+Mazowe RDC,11,1249
+Mazowe RDC,11,1250
+Mazowe RDC,12,1251
+Mazowe RDC,12,1252
+Mazowe RDC,13,1253
+Mazowe RDC,13,1254
+Mazowe RDC,13,1255
+Mazowe RDC,14,1256
+Mazowe RDC,14,1257
+Mazowe RDC,15,1258
+Mazowe RDC,15,1259
+Mazowe RDC,15,1260
+Mazowe RDC,16,1261
+Mazowe RDC,16,1262
+Mazowe RDC,16,1263
+Mazowe RDC,17,1264
+Mazowe RDC,17,1265
+Mazowe RDC,17,1266
+Mazowe RDC,18,1267
+Mazowe RDC,18,1268
+Mazowe RDC,18,1269
+Mazowe RDC,19,1270
+Mazowe RDC,19,1271
+Mazowe RDC,19,1272
+Mazowe RDC,20,1273
+Mazowe RDC,20,1274
+Mazowe RDC,21,1275
+Mazowe RDC,21,1276
+Mazowe RDC,21,1277
+Mazowe RDC,22,1278
+Mazowe RDC,22,1279
+Mazowe RDC,22,1280
+Mazowe RDC,23,1281
+Mazowe RDC,23,1282
+Mazowe RDC,24,1283
+Mazowe RDC,24,1284
+Mazowe RDC,24,1285
+Mazowe RDC,25,1286
+Mazowe RDC,25,1287
+Mazowe RDC,26,1288
+Mazowe RDC,26,1289
+Mazowe RDC,27,1290
+Mazowe RDC,27,1291
+Mazowe RDC,28,1292
+Mazowe RDC,28,1293
+Mazowe RDC,29,1294
+Mazowe RDC,29,1295
+Mazowe RDC,30,1296
+Mazowe RDC,30,1297
+Mazowe RDC,31,1298
+Mazowe RDC,31,1299
+Mazowe RDC,31,1300
+Mazowe RDC,32,1301
+Mazowe RDC,32,1302
+Mazowe RDC,32,1303
+Mazowe RDC,33,1304
+Mazowe RDC,33,1305
+Mazowe RDC,33,1306
+Mazowe RDC,34,1307
+Mazowe RDC,34,1308
+Mazowe RDC,35,1309
+Mazowe RDC,35,1310
+Mbire RDC,1,1311
+Mbire RDC,1,1312
+Mbire RDC,2,1313
+Mbire RDC,2,1314
+Mbire RDC,2,1315
+Mbire RDC,3,1316
+Mbire RDC,3,1317
+Mbire RDC,4,1318
+Mbire RDC,4,1319
+Mbire RDC,5,1320
+Mbire RDC,5,1321
+Mbire RDC,6,1322
+Mbire RDC,6,1323
+Mbire RDC,6,1324
+Mbire RDC,7,1325
+Mbire RDC,7,1326
+Mbire RDC,8,1327
+Mbire RDC,8,1328
+Mbire RDC,9,1329
+Mbire RDC,9,1330
+Mbire RDC,10,1331
+Mbire RDC,10,1332
+Mbire RDC,11,1333
+Mbire RDC,12,1334
+Mbire RDC,12,1335
+Mbire RDC,13,1336
+Mbire RDC,13,1337
+Mbire RDC,14,1338
+Mbire RDC,14,1339
+Mbire RDC,15,1340
+Mbire RDC,15,1341
+Mbire RDC,16,1342
+Mbire RDC,16,1343
+Mbire RDC,17,1344
+Mbire RDC,17,1345
+Muzarabani RDC,1,1346
+Muzarabani RDC,1,1347
+Muzarabani RDC,2,1348
+Muzarabani RDC,2,1349
+Muzarabani RDC,3,1350
+Muzarabani RDC,3,1351
+Muzarabani RDC,4,1352
+Muzarabani RDC,4,1353
+Muzarabani RDC,5,1354
+Muzarabani RDC,5,1355
+Muzarabani RDC,6,1356
+Muzarabani RDC,6,1357
+Muzarabani RDC,7,1358
+Muzarabani RDC,7,1359
+Muzarabani RDC,8,1360
+Muzarabani RDC,8,1361
+Muzarabani RDC,9,1362
+Muzarabani RDC,9,1363
+Muzarabani RDC,10,1364
+Muzarabani RDC,10,1365
+Muzarabani RDC,11,1366
+Muzarabani RDC,11,1367
+Muzarabani RDC,12,1368
+Muzarabani RDC,12,1369
+Muzarabani RDC,13,1370
+Muzarabani RDC,13,1371
+Muzarabani RDC,14,1372
+Muzarabani RDC,14,1373
+Muzarabani RDC,15,1374
+Muzarabani RDC,15,1375
+Muzarabani RDC,16,1376
+Muzarabani RDC,17,1377
+Muzarabani RDC,17,1378
+Muzarabani RDC,18,1379
+Muzarabani RDC,19,1380
+Muzarabani RDC,19,1381
+Muzarabani RDC,20,1382
+Muzarabani RDC,20,1383
+Muzarabani RDC,21,1384
+Muzarabani RDC,21,1385
+Muzarabani RDC,22,1386
+Muzarabani RDC,22,1387
+Muzarabani RDC,23,1388
+Muzarabani RDC,23,1389
+Muzarabani RDC,24,1390
+Muzarabani RDC,24,1391
+Muzarabani RDC,25,1392
+Muzarabani RDC,25,1393
+Muzarabani RDC,26,1394
+Muzarabani RDC,26,1395
+Muzarabani RDC,27,1396
+Muzarabani RDC,27,1397
+Muzarabani RDC,28,1398
+Muzarabani RDC,28,1399
+Muzarabani RDC,29,1400
+Muzarabani RDC,29,1401
+Pfura RDC,1,1402
+Pfura RDC,1,1403
+Pfura RDC,2,1404
+Pfura RDC,2,1405
+Pfura RDC,3,1406
+Pfura RDC,4,1407
+Pfura RDC,4,1408
+Pfura RDC,5,1409
+Pfura RDC,5,1410
+Pfura RDC,6,1411
+Pfura RDC,6,1412
+Pfura RDC,7,1413
+Pfura RDC,7,1414
+Pfura RDC,8,1415
+Pfura RDC,8,1416
+Pfura RDC,9,1417
+Pfura RDC,9,1418
+Pfura RDC,10,1419
+Pfura RDC,10,1420
+Pfura RDC,11,1421
+Pfura RDC,11,1422
+Pfura RDC,12,1423
+Pfura RDC,13,1424
+Pfura RDC,13,1425
+Pfura RDC,14,1426
+Pfura RDC,15,1427
+Pfura RDC,15,1428
+Pfura RDC,16,1429
+Pfura RDC,16,1430
+Pfura RDC,17,1431
+Pfura RDC,17,1432
+Pfura RDC,18,1433
+Pfura RDC,18,1434
+Pfura RDC,19,1435
+Pfura RDC,19,1436
+Pfura RDC,20,1437
+Pfura RDC,21,1438
+Pfura RDC,22,1439
+Pfura RDC,22,1440
+Pfura RDC,23,1441
+Pfura RDC,23,1442
+Pfura RDC,24,1443
+Pfura RDC,24,1444
+Pfura RDC,25,1445
+Pfura RDC,25,1446
+Pfura RDC,26,1447
+Pfura RDC,26,1448
+Pfura RDC,27,1449
+Pfura RDC,27,1450
+Pfura RDC,28,1451
+Pfura RDC,28,1452
+Pfura RDC,29,1453
+Pfura RDC,29,1454
+Pfura RDC,30,1455
+Pfura RDC,30,1456
+Pfura RDC,31,1457
+Pfura RDC,31,1458
+Pfura RDC,32,1459
+Pfura RDC,33,1460
+Pfura RDC,34,1461
+Pfura RDC,35,1462
+Pfura RDC,35,1463
+Pfura RDC,36,1464
+Pfura RDC,37,1465
+Pfura RDC,37,1466
+Pfura RDC,38,1467
+Pfura RDC,38,1468
+Pfura RDC,39,1469
+Pfura RDC,39,1470
+Pfura RDC,40,1471
+Rushinga RDC,1,1472
+Rushinga RDC,1,1473
+Rushinga RDC,2,1474
+Rushinga RDC,2,1475
+Rushinga RDC,3,1476
+Rushinga RDC,4,1477
+Rushinga RDC,4,1478
+Rushinga RDC,5,1479
+Rushinga RDC,6,1480
+Rushinga RDC,6,1481
+Rushinga RDC,7,1482
+Rushinga RDC,8,1483
+Rushinga RDC,8,1484
+Rushinga RDC,9,1485
+Rushinga RDC,9,1486
+Rushinga RDC,10,1487
+Rushinga RDC,10,1488
+Rushinga RDC,11,1489
+Rushinga RDC,11,1490
+Rushinga RDC,12,1491
+Rushinga RDC,12,1492
+Rushinga RDC,13,1493
+Rushinga RDC,13,1494
+Rushinga RDC,14,1495
+Rushinga RDC,14,1496
+Rushinga RDC,15,1497
+Rushinga RDC,15,1498
+Rushinga RDC,16,1499
+Rushinga RDC,16,1500
+Rushinga RDC,17,1501
+Rushinga RDC,17,1502
+Rushinga RDC,18,1503
+Rushinga RDC,18,1504
+Rushinga RDC,19,1505
+Rushinga RDC,20,1506
+Rushinga RDC,21,1507
+Rushinga RDC,21,1508
+Rushinga RDC,22,1509
+Rushinga RDC,23,1510
+Rushinga RDC,24,1511
+Rushinga RDC,24,1512
+Rushinga RDC,25,1513
+Rushinga RDC,25,1514
+Chikomba RDC,1,1515
+Chikomba RDC,1,1516
+Chikomba RDC,2,1517
+Chikomba RDC,2,1518
+Chikomba RDC,3,1519
+Chikomba RDC,3,1520
+Chikomba RDC,3,1521
+Chikomba RDC,4,1522
+Chikomba RDC,4,1523
+Chikomba RDC,5,1524
+Chikomba RDC,5,1525
+Chikomba RDC,6,1526
+Chikomba RDC,6,1527
+Chikomba RDC,6,1528
+Chikomba RDC,7,1529
+Chikomba RDC,7,1530
+Chikomba RDC,8,1531
+Chikomba RDC,8,1532
+Chikomba RDC,9,1533
+Chikomba RDC,9,1534
+Chikomba RDC,9,1535
+Chikomba RDC,10,1536
+Chikomba RDC,10,1537
+Chikomba RDC,10,1538
+Chikomba RDC,11,1539
+Chikomba RDC,11,1540
+Chikomba RDC,12,1541
+Chikomba RDC,12,1542
+Chikomba RDC,12,1543
+Chikomba RDC,12,1544
+Chikomba RDC,13,1545
+Chikomba RDC,13,1546
+Chikomba RDC,13,1547
+Chikomba RDC,14,1548
+Chikomba RDC,14,1549
+Chikomba RDC,14,1550
+Chikomba RDC,15,1551
+Chikomba RDC,15,1552
+Chikomba RDC,15,1553
+Chikomba RDC,16,1554
+Chikomba RDC,16,1555
+Chikomba RDC,16,1556
+Chikomba RDC,17,1557
+Chikomba RDC,17,1558
+Chikomba RDC,17,1559
+Chikomba RDC,18,1560
+Chikomba RDC,18,1561
+Chikomba RDC,18,1562
+Chikomba RDC,19,1563
+Chikomba RDC,19,1564
+Chikomba RDC,19,1565
+Chikomba RDC,20,1566
+Chikomba RDC,20,1567
+Chikomba RDC,20,1568
+Chikomba RDC,21,1569
+Chikomba RDC,21,1570
+Chikomba RDC,21,1571
+Chikomba RDC,22,1572
+Chikomba RDC,22,1573
+Chikomba RDC,22,1574
+Chikomba RDC,23,1575
+Chikomba RDC,23,1576
+Chikomba RDC,23,1577
+Chikomba RDC,24,1578
+Chikomba RDC,24,1579
+Chikomba RDC,24,1580
+Chikomba RDC,25,1581
+Chikomba RDC,25,1582
+Chikomba RDC,25,1583
+Chikomba RDC,26,1584
+Chikomba RDC,26,1585
+Chikomba RDC,26,1586
+Chikomba RDC,27,1587
+Chikomba RDC,27,1588
+Chikomba RDC,27,1589
+Chikomba RDC,28,1590
+Chikomba RDC,28,1591
+Chikomba RDC,29,1592
+Chikomba RDC,29,1593
+Chikomba RDC,29,1594
+Chikomba RDC,30,1595
+Chikomba RDC,30,1596
+Goromonzi RDC,1,1597
+Goromonzi RDC,1,1598
+Goromonzi RDC,2,1599
+Goromonzi RDC,2,1600
+Goromonzi RDC,2,1601
+Goromonzi RDC,3,1602
+Goromonzi RDC,3,1603
+Goromonzi RDC,4,1604
+Goromonzi RDC,4,1605
+Goromonzi RDC,4,1606
+Goromonzi RDC,5,1607
+Goromonzi RDC,5,1608
+Goromonzi RDC,6,1609
+Goromonzi RDC,6,1610
+Goromonzi RDC,7,1611
+Goromonzi RDC,7,1612
+Goromonzi RDC,8,1613
+Goromonzi RDC,8,1614
+Goromonzi RDC,9,1615
+Goromonzi RDC,9,1616
+Goromonzi RDC,10,1617
+Goromonzi RDC,10,1618
+Goromonzi RDC,11,1619
+Goromonzi RDC,11,1620
+Goromonzi RDC,12,1621
+Goromonzi RDC,12,1622
+Goromonzi RDC,13,1623
+Goromonzi RDC,14,1624
+Goromonzi RDC,14,1625
+Goromonzi RDC,15,1626
+Goromonzi RDC,15,1627
+Goromonzi RDC,16,1628
+Goromonzi RDC,16,1629
+Goromonzi RDC,16,1630
+Goromonzi RDC,17,1631
+Goromonzi RDC,18,1632
+Goromonzi RDC,18,1633
+Goromonzi RDC,18,1634
+Goromonzi RDC,19,1635
+Goromonzi RDC,19,1636
+Goromonzi RDC,20,1637
+Goromonzi RDC,20,1638
+Goromonzi RDC,21,1639
+Goromonzi RDC,21,1640
+Goromonzi RDC,22,1641
+Goromonzi RDC,22,1642
+Goromonzi RDC,22,1643
+Goromonzi RDC,23,1644
+Goromonzi RDC,23,1645
+Goromonzi RDC,24,1646
+Goromonzi RDC,24,1647
+Goromonzi RDC,25,1648
+Goromonzi RDC,25,1649
+Manyame RDC,1,1650
+Manyame RDC,1,1651
+Manyame RDC,2,1652
+Manyame RDC,2,1653
+Manyame RDC,3,1654
+Manyame RDC,3,1655
+Manyame RDC,4,1656
+Manyame RDC,4,1657
+Manyame RDC,5,1658
+Manyame RDC,5,1659
+Manyame RDC,6,1660
+Manyame RDC,6,1661
+Manyame RDC,6,1662
+Manyame RDC,7,1663
+Manyame RDC,7,1664
+Manyame RDC,7,1665
+Manyame RDC,8,1666
+Manyame RDC,8,1667
+Manyame RDC,8,1668
+Manyame RDC,8,1669
+Manyame RDC,9,1670
+Manyame RDC,9,1671
+Manyame RDC,10,1672
+Manyame RDC,11,1673
+Manyame RDC,11,1674
+Manyame RDC,12,1675
+Manyame RDC,13,1676
+Manyame RDC,13,1677
+Manyame RDC,14,1678
+Manyame RDC,14,1679
+Manyame RDC,15,1680
+Manyame RDC,15,1681
+Manyame RDC,15,1682
+Manyame RDC,15,1683
+Manyame RDC,16,1684
+Manyame RDC,16,1685
+Manyame RDC,17,1686
+Manyame RDC,17,1687
+Manyame RDC,18,1688
+Manyame RDC,18,1689
+Manyame RDC,19,1690
+Manyame RDC,19,1691
+Manyame RDC,20,1692
+Manyame RDC,21,1693
+Manyame RDC,21,1694
+Marondera Municipality,1,1695
+Marondera Municipality,1,1696
+Marondera Municipality,1,1697
+Marondera Municipality,1,1698
+Marondera Municipality,2,1699
+Marondera Municipality,2,1700
+Marondera Municipality,2,1701
+Marondera Municipality,2,1702
+Marondera Municipality,3,1703
+Marondera Municipality,3,1704
+Marondera Municipality,3,1705
+Marondera Municipality,4,1706
+Marondera Municipality,4,1707
+Marondera Municipality,4,1708
+Marondera Municipality,5,1709
+Marondera Municipality,5,1710
+Marondera Municipality,5,1711
+Marondera Municipality,6,1712
+Marondera Municipality,6,1713
+Marondera Municipality,6,1714
+Marondera Municipality,7,1715
+Marondera Municipality,7,1716
+Marondera Municipality,7,1717
+Marondera Municipality,8,1718
+Marondera Municipality,8,1719
+Marondera Municipality,8,1720
+Marondera Municipality,8,1721
+Marondera Municipality,9,1722
+Marondera Municipality,9,1723
+Marondera Municipality,10,1724
+Marondera Municipality,10,1725
+Marondera Municipality,10,1726
+Marondera Municipality,11,1727
+Marondera Municipality,11,1728
+Marondera Municipality,12,1729
+Marondera Municipality,12,1730
+Marondera Municipality,12,1731
+Marondera RDC,1,1732
+Marondera RDC,1,1733
+Marondera RDC,2,1734
+Marondera RDC,2,1735
+Marondera RDC,3,1736
+Marondera RDC,3,1737
+Marondera RDC,4,1738
+Marondera RDC,4,1739
+Marondera RDC,5,1740
+Marondera RDC,5,1741
+Marondera RDC,6,1742
+Marondera RDC,6,1743
+Marondera RDC,7,1744
+Marondera RDC,7,1745
+Marondera RDC,8,1746
+Marondera RDC,9,1747
+Marondera RDC,10,1748
+Marondera RDC,10,1749
+Marondera RDC,11,1750
+Marondera RDC,11,1751
+Marondera RDC,12,1752
+Marondera RDC,12,1753
+Marondera RDC,13,1754
+Marondera RDC,13,1755
+Marondera RDC,14,1756
+Marondera RDC,14,1757
+Marondera RDC,15,1758
+Marondera RDC,15,1759
+Marondera RDC,16,1760
+Marondera RDC,16,1761
+Marondera RDC,17,1762
+Marondera RDC,17,1763
+Marondera RDC,18,1764
+Marondera RDC,18,1765
+Marondera RDC,19,1766
+Marondera RDC,19,1767
+Marondera RDC,20,1768
+Marondera RDC,20,1769
+Marondera RDC,21,1770
+Marondera RDC,21,1771
+Marondera RDC,22,1772
+Marondera RDC,22,1773
+Marondera RDC,23,1774
+Marondera RDC,23,1775
+Marondera RDC,23,1776
+Mudzi RDC,1,1777
+Mudzi RDC,1,1778
+Mudzi RDC,1,1779
+Mudzi RDC,2,1780
+Mudzi RDC,2,1781
+Mudzi RDC,3,1782
+Mudzi RDC,3,1783
+Mudzi RDC,4,1784
+Mudzi RDC,4,1785
+Mudzi RDC,5,1786
+Mudzi RDC,5,1787
+Mudzi RDC,6,1788
+Mudzi RDC,6,1789
+Mudzi RDC,7,1790
+Mudzi RDC,7,1791
+Mudzi RDC,8,1792
+Mudzi RDC,8,1793
+Mudzi RDC,9,1794
+Mudzi RDC,9,1795
+Mudzi RDC,10,1796
+Mudzi RDC,10,1797
+Mudzi RDC,11,1798
+Mudzi RDC,11,1799
+Mudzi RDC,12,1800
+Mudzi RDC,12,1801
+Mudzi RDC,13,1802
+Mudzi RDC,13,1803
+Mudzi RDC,14,1804
+Mudzi RDC,14,1805
+Mudzi RDC,15,1806
+Mudzi RDC,15,1807
+Mudzi RDC,16,1808
+Mudzi RDC,16,1809
+Mudzi RDC,17,1810
+Mudzi RDC,17,1811
+Mudzi RDC,18,1812
+Mudzi RDC,18,1813
+Murewa RDC,1,1814
+Murewa RDC,1,1815
+Murewa RDC,2,1816
+Murewa RDC,2,1817
+Murewa RDC,3,1818
+Murewa RDC,3,1819
+Murewa RDC,4,1820
+Murewa RDC,4,1821
+Murewa RDC,5,1822
+Murewa RDC,5,1823
+Murewa RDC,6,1824
+Murewa RDC,6,1825
+Murewa RDC,7,1826
+Murewa RDC,7,1827
+Murewa RDC,8,1828
+Murewa RDC,8,1829
+Murewa RDC,8,1830
+Murewa RDC,9,1831
+Murewa RDC,9,1832
+Murewa RDC,10,1833
+Murewa RDC,10,1834
+Murewa RDC,11,1835
+Murewa RDC,11,1836
+Murewa RDC,11,1837
+Murewa RDC,12,1838
+Murewa RDC,12,1839
+Murewa RDC,12,1840
+Murewa RDC,13,1841
+Murewa RDC,13,1842
+Murewa RDC,14,1843
+Murewa RDC,14,1844
+Murewa RDC,15,1845
+Murewa RDC,15,1846
+Murewa RDC,15,1847
+Murewa RDC,16,1848
+Murewa RDC,16,1849
+Murewa RDC,17,1850
+Murewa RDC,17,1851
+Murewa RDC,17,1852
+Murewa RDC,18,1853
+Murewa RDC,18,1854
+Murewa RDC,19,1855
+Murewa RDC,19,1856
+Murewa RDC,19,1857
+Murewa RDC,20,1858
+Murewa RDC,20,1859
+Murewa RDC,21,1860
+Murewa RDC,21,1861
+Murewa RDC,21,1862
+Murewa RDC,22,1863
+Murewa RDC,22,1864
+Murewa RDC,23,1865
+Murewa RDC,23,1866
+Murewa RDC,23,1867
+Murewa RDC,24,1868
+Murewa RDC,24,1869
+Murewa RDC,25,1870
+Murewa RDC,25,1871
+Murewa RDC,25,1872
+Murewa RDC,26,1873
+Murewa RDC,26,1874
+Murewa RDC,26,1875
+Murewa RDC,27,1876
+Murewa RDC,27,1877
+Murewa RDC,27,1878
+Murewa RDC,28,1879
+Murewa RDC,28,1880
+Murewa RDC,29,1881
+Murewa RDC,29,1882
+Murewa RDC,30,1883
+Murewa RDC,30,1884
+Murewa RDC,30,1885
+Mutoko RDC,1,1886
+Mutoko RDC,1,1887
+Mutoko RDC,2,1888
+Mutoko RDC,2,1889
+Mutoko RDC,3,1890
+Mutoko RDC,3,1891
+Mutoko RDC,4,1892
+Mutoko RDC,4,1893
+Mutoko RDC,5,1894
+Mutoko RDC,5,1895
+Mutoko RDC,6,1896
+Mutoko RDC,6,1897
+Mutoko RDC,7,1898
+Mutoko RDC,7,1899
+Mutoko RDC,8,1900
+Mutoko RDC,8,1901
+Mutoko RDC,9,1902
+Mutoko RDC,9,1903
+Mutoko RDC,10,1904
+Mutoko RDC,10,1905
+Mutoko RDC,11,1906
+Mutoko RDC,11,1907
+Mutoko RDC,11,1908
+Mutoko RDC,12,1909
+Mutoko RDC,12,1910
+Mutoko RDC,13,1911
+Mutoko RDC,13,1912
+Mutoko RDC,13,1913
+Mutoko RDC,14,1914
+Mutoko RDC,14,1915
+Mutoko RDC,15,1916
+Mutoko RDC,15,1917
+Mutoko RDC,16,1918
+Mutoko RDC,16,1919
+Mutoko RDC,16,1920
+Mutoko RDC,17,1921
+Mutoko RDC,17,1922
+Mutoko RDC,18,1923
+Mutoko RDC,18,1924
+Mutoko RDC,19,1925
+Mutoko RDC,19,1926
+Mutoko RDC,20,1927
+Mutoko RDC,20,1928
+Mutoko RDC,21,1929
+Mutoko RDC,21,1930
+Mutoko RDC,22,1931
+Mutoko RDC,22,1932
+Mutoko RDC,23,1933
+Mutoko RDC,23,1934
+Mutoko RDC,24,1935
+Mutoko RDC,24,1936
+Mutoko RDC,25,1937
+Mutoko RDC,25,1938
+Mutoko RDC,26,1939
+Mutoko RDC,26,1940
+Mutoko RDC,27,1941
+Mutoko RDC,27,1942
+Mutoko RDC,28,1943
+Mutoko RDC,28,1944
+Mutoko RDC,29,1945
+Mutoko RDC,29,1946
+Ruwa Local Board,1,1947
+Ruwa Local Board,1,1948
+Ruwa Local Board,2,1949
+Ruwa Local Board,2,1950
+Ruwa Local Board,2,1951
+Ruwa Local Board,3,1952
+Ruwa Local Board,3,1953
+Ruwa Local Board,4,1954
+Ruwa Local Board,4,1955
+Ruwa Local Board,4,1956
+Ruwa Local Board,4,1957
+Ruwa Local Board,5,1958
+Ruwa Local Board,5,1959
+Ruwa Local Board,6,1960
+Ruwa Local Board,6,1961
+Ruwa Local Board,7,1962
+Ruwa Local Board,7,1963
+Ruwa Local Board,7,1964
+Ruwa Local Board,7,1965
+Ruwa Local Board,8,1966
+Ruwa Local Board,8,1967
+Ruwa Local Board,8,1968
+Ruwa Local Board,9,1969
+Ruwa Local Board,9,1970
+Wedza RDC,1,1971
+Wedza RDC,2,1972
+Wedza RDC,2,1973
+Wedza RDC,3,1974
+Wedza RDC,3,1975
+Wedza RDC,4,1976
+Wedza RDC,4,1977
+Wedza RDC,5,1978
+Wedza RDC,5,1979
+Wedza RDC,6,1980
+Wedza RDC,6,1981
+Wedza RDC,7,1982
+Wedza RDC,7,1983
+Wedza RDC,7,1984
+Wedza RDC,8,1985
+Wedza RDC,8,1986
+Wedza RDC,9,1987
+Wedza RDC,9,1988
+Wedza RDC,9,1989
+Wedza RDC,10,1990
+Wedza RDC,10,1991
+Wedza RDC,11,1992
+Wedza RDC,11,1993
+Wedza RDC,12,1994
+Wedza RDC,12,1995
+Wedza RDC,13,1996
+Wedza RDC,13,1997
+Wedza RDC,14,1998
+Wedza RDC,14,1999
+Wedza RDC,15,2000
+Wedza RDC,15,2001
+Zvataida Rdc,1,2002
+Zvataida Rdc,1,2003
+Zvataida Rdc,2,2004
+Zvataida Rdc,2,2005
+Zvataida Rdc,3,2006
+Zvataida Rdc,3,2007
+Zvataida Rdc,4,2008
+Zvataida Rdc,5,2009
+Zvataida Rdc,5,2010
+Zvataida Rdc,6,2011
+Zvataida Rdc,6,2012
+Zvataida Rdc,7,2013
+Zvataida Rdc,7,2014
+Zvataida Rdc,8,2015
+Zvataida Rdc,8,2016
+Zvataida Rdc,9,2017
+Zvataida Rdc,9,2018
+Zvataida Rdc,10,2019
+Zvataida Rdc,10,2020
+Zvataida Rdc,11,2021
+Zvataida Rdc,11,2022
+Zvataida Rdc,12,2023
+Zvataida Rdc,12,2024
+Zvataida Rdc,12,2025
+Zvataida Rdc,13,2026
+Zvataida Rdc,13,2027
+Zvataida Rdc,13,2028
+Zvataida Rdc,14,2029
+Zvataida Rdc,14,2030
+Zvataida Rdc,15,2031
+Zvataida Rdc,15,2032
+Zvataida Rdc,16,2033
+Zvataida Rdc,17,2034
+Zvataida Rdc,17,2035
+Chegutu Municipality,1,2036
+Chegutu Municipality,1,2037
+Chegutu Municipality,1,2038
+Chegutu Municipality,2,2039
+Chegutu Municipality,2,2040
+Chegutu Municipality,3,2041
+Chegutu Municipality,3,2042
+Chegutu Municipality,3,2043
+Chegutu Municipality,3,2044
+Chegutu Municipality,4,2045
+Chegutu Municipality,4,2046
+Chegutu Municipality,5,2047
+Chegutu Municipality,5,2048
+Chegutu Municipality,5,2049
+Chegutu Municipality,6,2050
+Chegutu Municipality,6,2051
+Chegutu Municipality,6,2052
+Chegutu Municipality,7,2053
+Chegutu Municipality,7,2054
+Chegutu Municipality,7,2055
+Chegutu Municipality,8,2056
+Chegutu Municipality,8,2057
+Chegutu Municipality,9,2058
+Chegutu Municipality,9,2059
+Chegutu Municipality,9,2060
+Chegutu Municipality,10,2061
+Chegutu Municipality,10,2062
+Chegutu Municipality,11,2063
+Chegutu Municipality,11,2064
+Chegutu Municipality,11,2065
+Chegutu Municipality,11,2066
+Chegutu Municipality,12,2067
+Chegutu Municipality,12,2068
+Chegutu RDC,1,2069
+Chegutu RDC,1,2070
+Chegutu RDC,2,2071
+Chegutu RDC,2,2072
+Chegutu RDC,2,2073
+Chegutu RDC,3,2074
+Chegutu RDC,3,2075
+Chegutu RDC,4,2076
+Chegutu RDC,4,2077
+Chegutu RDC,5,2078
+Chegutu RDC,5,2079
+Chegutu RDC,6,2080
+Chegutu RDC,6,2081
+Chegutu RDC,6,2082
+Chegutu RDC,7,2083
+Chegutu RDC,7,2084
+Chegutu RDC,8,2085
+Chegutu RDC,8,2086
+Chegutu RDC,9,2087
+Chegutu RDC,9,2088
+Chegutu RDC,10,2089
+Chegutu RDC,10,2090
+Chegutu RDC,11,2091
+Chegutu RDC,11,2092
+Chegutu RDC,12,2093
+Chegutu RDC,12,2094
+Chegutu Rdc,13,2095
+Chegutu Rdc,14,2096
+Chegutu Rdc,15,2097
+Chegutu RDC,16,2098
+Chegutu RDC,16,2099
+Chegutu RDC,17,2100
+Chegutu RDC,17,2101
+Chegutu RDC,18,2102
+Chegutu RDC,18,2103
+Chegutu RDC,19,2104
+Chegutu RDC,19,2105
+Chegutu RDC,20,2106
+Chegutu RDC,20,2107
+Chegutu RDC,21,2108
+Chegutu RDC,21,2109
+Chegutu RDC,22,2110
+Chegutu RDC,22,2111
+Chegutu RDC,23,2112
+Chegutu RDC,23,2113
+Chegutu RDC,24,2114
+Chegutu RDC,24,2115
+Chegutu RDC,25,2116
+Chegutu RDC,25,2117
+Chegutu RDC,26,2118
+Chegutu RDC,26,2119
+Chegutu RDC,27,2120
+Chegutu RDC,27,2121
+Chegutu RDC,28,2122
+Chegutu RDC,28,2123
+Chegutu RDC,29,2124
+Chegutu RDC,29,2125
+Chegutu RDC,29,2126
+Chinhoyi Municipality,1,2127
+Chinhoyi Municipality,1,2128
+Chinhoyi Municipality,1,2129
+Chinhoyi Municipality,1,2130
+Chinhoyi Municipality,2,2131
+Chinhoyi Municipality,2,2132
+Chinhoyi Municipality,2,2133
+Chinhoyi Municipality,3,2134
+Chinhoyi Municipality,3,2135
+Chinhoyi Municipality,3,2136
+Chinhoyi Municipality,4,2137
+Chinhoyi Municipality,4,2138
+Chinhoyi Municipality,4,2139
+Chinhoyi Municipality,5,2140
+Chinhoyi Municipality,5,2141
+Chinhoyi Municipality,5,2142
+Chinhoyi Municipality,6,2143
+Chinhoyi Municipality,6,2144
+Chinhoyi Municipality,6,2145
+Chinhoyi Municipality,7,2146
+Chinhoyi Municipality,7,2147
+Chinhoyi Municipality,7,2148
+Chinhoyi Municipality,8,2149
+Chinhoyi Municipality,8,2150
+Chinhoyi Municipality,8,2151
+Chinhoyi Municipality,8,2152
+Chinhoyi Municipality,9,2153
+Chinhoyi Municipality,9,2154
+Chinhoyi Municipality,9,2155
+Chinhoyi Municipality,10,2156
+Chinhoyi Municipality,10,2157
+Chinhoyi Municipality,10,2158
+Chinhoyi Municipality,11,2159
+Chinhoyi Municipality,11,2160
+Chinhoyi Municipality,12,2161
+Chinhoyi Municipality,12,2162
+Chinhoyi Municipality,12,2163
+Chinhoyi Municipality,13,2164
+Chinhoyi Municipality,13,2165
+Chinhoyi Municipality,13,2166
+Chinhoyi Municipality,14,2167
+Chinhoyi Municipality,14,2168
+Chinhoyi Municipality,14,2169
+Chinhoyi Municipality,14,2170
+Chinhoyi Municipality,15,2171
+Chinhoyi Municipality,15,2172
+Hurungwe Rdc,1,2173
+Hurungwe Rdc,1,2174
+Hurungwe Rdc,2,2175
+Hurungwe Rdc,3,2176
+Hurungwe Rdc,4,2177
+Hurungwe Rdc,4,2178
+Hurungwe Rdc,5,2179
+Hurungwe Rdc,5,2180
+Hurungwe Rdc,6,2181
+Hurungwe Rdc,6,2182
+Hurungwe Rdc,6,2183
+Hurungwe Rdc,7,2184
+Hurungwe Rdc,7,2185
+Hurungwe Rdc,8,2186
+Hurungwe Rdc,8,2187
+Hurungwe Rdc,9,2188
+Hurungwe Rdc,9,2189
+Hurungwe Rdc,10,2190
+Hurungwe Rdc,10,2191
+Hurungwe Rdc,10,2192
+Hurungwe Rdc,11,2193
+Hurungwe Rdc,11,2194
+Hurungwe Rdc,11,2195
+Hurungwe Rdc,11,2196
+Hurungwe Rdc,12,2197
+Hurungwe Rdc,12,2198
+Hurungwe Rdc,12,2199
+Hurungwe Rdc,13,2200
+Hurungwe Rdc,13,2201
+Hurungwe Rdc,14,2202
+Hurungwe Rdc,14,2203
+Hurungwe Rdc,15,2204
+Hurungwe Rdc,15,2205
+Hurungwe Rdc,16,2206
+Hurungwe Rdc,16,2207
+Hurungwe Rdc,17,2208
+Hurungwe Rdc,17,2209
+Hurungwe Rdc,17,2210
+Hurungwe Rdc,18,2211
+Hurungwe Rdc,18,2212
+Hurungwe Rdc,19,2213
+Hurungwe Rdc,20,2214
+Hurungwe Rdc,20,2215
+Hurungwe Rdc,21,2216
+Hurungwe Rdc,21,2217
+Hurungwe Rdc,22,2218
+Hurungwe Rdc,22,2219
+Hurungwe Rdc,23,2220
+Hurungwe Rdc,23,2221
+Hurungwe Rdc,24,2222
+Hurungwe Rdc,24,2223
+Hurungwe Rdc,25,2224
+Hurungwe Rdc,25,2225
+Hurungwe Rdc,26,2226
+Hurungwe Rdc,26,2227
+Kadoma Municipality,1,2228
+Kadoma Municipality,1,2229
+Kadoma Municipality,2,2230
+Kadoma Municipality,2,2231
+Kadoma Municipality,3,2232
+Kadoma Municipality,3,2233
+Kadoma Municipality,3,2234
+Kadoma Municipality,4,2235
+Kadoma Municipality,4,2236
+Kadoma Municipality,5,2237
+Kadoma Municipality,5,2238
+Kadoma Municipality,6,2239
+Kadoma Municipality,6,2240
+Kadoma Municipality,7,2241
+Kadoma Municipality,7,2242
+Kadoma Municipality,8,2243
+Kadoma Municipality,8,2244
+Kadoma Municipality,9,2245
+Kadoma Municipality,9,2246
+Kadoma Municipality,10,2247
+Kadoma Municipality,10,2248
+Kadoma Municipality,10,2249
+Kadoma Municipality,11,2250
+Kadoma Municipality,11,2251
+Kadoma Municipality,12,2252
+Kadoma Municipality,12,2253
+Kadoma Municipality,13,2254
+Kadoma Municipality,13,2255
+Kadoma Municipality,14,2256
+Kadoma Municipality,14,2257
+Kadoma Municipality,15,2258
+Kadoma Municipality,15,2259
+Kadoma Municipality,16,2260
+Kadoma Municipality,16,2261
+Kadoma Municipality,17,2262
+Kadoma Municipality,17,2263
+Kariba Municipality,1,2264
+Kariba Municipality,1,2265
+Kariba Municipality,2,2266
+Kariba Municipality,2,2267
+Kariba Municipality,3,2268
+Kariba Municipality,3,2269
+Kariba Municipality,3,2270
+Kariba Municipality,4,2271
+Kariba Municipality,4,2272
+Kariba Municipality,5,2273
+Kariba Municipality,5,2274
+Kariba Municipality,6,2275
+Kariba Municipality,6,2276
+Kariba Municipality,7,2277
+Kariba Municipality,7,2278
+Kariba Municipality,8,2279
+Kariba Municipality,8,2280
+Kariba Municipality,9,2281
+Kariba Municipality,9,2282
+Karoi Town Council,1,2283
+Karoi Town Council,1,2284
+Karoi Town Council,2,2285
+Karoi Town Council,2,2286
+Karoi Town Council,3,2287
+Karoi Town Council,3,2288
+Karoi Town Council,4,2289
+Karoi Town Council,4,2290
+Karoi Town Council,5,2291
+Karoi Town Council,5,2292
+Karoi Town Council,6,2293
+Karoi Town Council,6,2294
+Karoi Town Council,7,2295
+Karoi Town Council,7,2296
+Karoi Town Council,8,2297
+Karoi Town Council,8,2298
+Karoi Town Council,9,2299
+Karoi Town Council,9,2300
+Karoi Town Council,9,2301
+Karoi Town Council,10,2302
+Karoi Town Council,10,2303
+Makonde Rdc,1,2304
+Makonde Rdc,1,2305
+Makonde Rdc,2,2306
+Makonde Rdc,3,2307
+Makonde Rdc,3,2308
+Makonde Rdc,4,2309
+Makonde Rdc,5,2310
+Makonde Rdc,5,2311
+Makonde Rdc,6,2312
+Makonde Rdc,7,2313
+Makonde Rdc,7,2314
+Makonde Rdc,7,2315
+Makonde Rdc,8,2316
+Makonde Rdc,9,2317
+Makonde Rdc,9,2318
+Makonde Rdc,10,2319
+Makonde Rdc,10,2320
+Makonde Rdc,10,2321
+Makonde Rdc,11,2322
+Makonde Rdc,11,2323
+Makonde Rdc,11,2324
+Makonde Rdc,12,2325
+Makonde Rdc,12,2326
+Makonde Rdc,13,2327
+Makonde Rdc,13,2328
+Makonde Rdc,14,2329
+Makonde Rdc,14,2330
+Makonde Rdc,15,2331
+Makonde Rdc,15,2332
+Makonde Rdc,16,2333
+Makonde Rdc,16,2334
+Makonde Rdc,17,2335
+Makonde Rdc,17,2336
+Makonde Rdc,18,2337
+Makonde Rdc,18,2338
+Makonde Rdc,19,2339
+Mhondoro Ngezi Rdc,1,2340
+Mhondoro Ngezi Rdc,1,2341
+Mhondoro Ngezi Rdc,2,2342
+Mhondoro Ngezi Rdc,2,2343
+Mhondoro Ngezi Rdc,3,2344
+Mhondoro Ngezi Rdc,3,2345
+Mhondoro Ngezi Rdc,4,2346
+Mhondoro Ngezi Rdc,4,2347
+Mhondoro Ngezi Rdc,5,2348
+Mhondoro Ngezi Rdc,5,2349
+Mhondoro Ngezi Rdc,6,2350
+Mhondoro Ngezi Rdc,6,2351
+Mhondoro Ngezi Rdc,7,2352
+Mhondoro Ngezi Rdc,7,2353
+Mhondoro Ngezi Rdc,8,2354
+Mhondoro Ngezi Rdc,8,2355
+Mhondoro Ngezi Rdc,9,2356
+Mhondoro Ngezi Rdc,9,2357
+Mhondoro Ngezi Rdc,10,2358
+Mhondoro Ngezi Rdc,10,2359
+Mhondoro Ngezi Rdc,11,2360
+Mhondoro Ngezi Rdc,11,2361
+Mhondoro Ngezi Rdc,12,2362
+Mhondoro Ngezi Rdc,12,2363
+Mhondoro Ngezi Rdc,13,2364
+Mhondoro Ngezi Rdc,13,2365
+Mhondoro Ngezi Rdc,14,2366
+Mhondoro Ngezi Rdc,14,2367
+Mhondoro Ngezi Rdc,15,2368
+Mhondoro Ngezi Rdc,15,2369
+Mhondoro Ngezi Rdc,16,2370
+Mhondoro Ngezi Rdc,16,2371
+Norton Town Council,1,2372
+Norton Town Council,1,2373
+Norton Town Council,1,2374
+Norton Town Council,1,2375
+Norton Town Council,2,2376
+Norton Town Council,2,2377
+Norton Town Council,3,2378
+Norton Town Council,3,2379
+Norton Town Council,4,2380
+Norton Town Council,4,2381
+Norton Town Council,5,2382
+Norton Town Council,5,2383
+Norton Town Council,5,2384
+Norton Town Council,6,2385
+Norton Town Council,6,2386
+Norton Town Council,7,2387
+Norton Town Council,7,2388
+Norton Town Council,7,2389
+Norton Town Council,8,2390
+Norton Town Council,8,2391
+Norton Town Council,9,2392
+Norton Town Council,9,2393
+Norton Town Council,9,2394
+Norton Town Council,10,2395
+Norton Town Council,10,2396
+Norton Town Council,11,2397
+Norton Town Council,11,2398
+Norton Town Council,12,2399
+Norton Town Council,12,2400
+Norton Town Council,12,2401
+Norton Town Council,12,2402
+Norton Town Council,13,2403
+Norton Town Council,13,2404
+Nyami Nyami Rdc,1,2405
+Nyami Nyami Rdc,1,2406
+Nyami Nyami Rdc,2,2407
+Nyami Nyami Rdc,2,2408
+Nyami Nyami Rdc,3,2409
+Nyami Nyami Rdc,3,2410
+Nyami Nyami Rdc,3,2411
+Nyami Nyami Rdc,4,2412
+Nyami Nyami Rdc,4,2413
+Nyami Nyami Rdc,4,2414
+Nyami Nyami Rdc,5,2415
+Nyami Nyami Rdc,5,2416
+Nyami Nyami Rdc,6,2417
+Nyami Nyami Rdc,6,2418
+Nyami Nyami Rdc,7,2419
+Nyami Nyami Rdc,7,2420
+Nyami Nyami Rdc,8,2421
+Nyami Nyami Rdc,8,2422
+Nyami Nyami Rdc,9,2423
+Nyami Nyami Rdc,9,2424
+Nyami Nyami Rdc,10,2425
+Nyami Nyami Rdc,10,2426
+Nyami Nyami Rdc,11,2427
+Nyami Nyami Rdc,11,2428
+Nyami Nyami Rdc,12,2429
+Nyami Nyami Rdc,12,2430
+Sanyati Rdc,1,2431
+Sanyati Rdc,1,2432
+Sanyati Rdc,2,2433
+Sanyati Rdc,2,2434
+Sanyati Rdc,3,2435
+Sanyati Rdc,3,2436
+Sanyati Rdc,4,2437
+Sanyati Rdc,4,2438
+Sanyati Rdc,5,2439
+Sanyati Rdc,6,2440
+Sanyati Rdc,6,2441
+Sanyati Rdc,7,2442
+Sanyati Rdc,8,2443
+Sanyati Rdc,8,2444
+Sanyati Rdc,9,2445
+Sanyati Rdc,9,2446
+Sanyati Rdc,10,2447
+Sanyati Rdc,10,2448
+Sanyati Rdc,10,2449
+Sanyati Rdc,11,2450
+Sanyati Rdc,11,2451
+Sanyati Rdc,12,2452
+Sanyati Rdc,12,2453
+Sanyati Rdc,13,2454
+Sanyati Rdc,13,2455
+Sanyati Rdc,14,2456
+Sanyati Rdc,14,2457
+Sanyati Rdc,15,2458
+Sanyati Rdc,15,2459
+Sanyati Rdc,16,2460
+Sanyati Rdc,16,2461
+Sanyati Rdc,17,2462
+Sanyati Rdc,17,2463
+Sanyati Rdc,18,2464
+Sanyati Rdc,18,2465
+Zvimba Rdc,1,2466
+Zvimba Rdc,2,2467
+Zvimba Rdc,3,2468
+Zvimba Rdc,3,2469
+Zvimba Rdc,4,2470
+Zvimba Rdc,4,2471
+Zvimba Rdc,5,2472
+Zvimba Rdc,5,2473
+Zvimba Rdc,6,2474
+Zvimba Rdc,6,2475
+Zvimba Rdc,7,2476
+Zvimba Rdc,7,2477
+Zvimba Rdc,8,2478
+Zvimba Rdc,8,2479
+Zvimba Rdc,9,2480
+Zvimba Rdc,9,2481
+Zvimba Rdc,10,2482
+Zvimba Rdc,10,2483
+Zvimba Rdc,11,2484
+Zvimba Rdc,11,2485
+Zvimba Rdc,12,2486
+Zvimba Rdc,13,2487
+Zvimba Rdc,13,2488
+Zvimba Rdc,14,2489
+Zvimba Rdc,14,2490
+Zvimba Rdc,15,2491
+Zvimba Rdc,15,2492
+Zvimba Rdc,16,2493
+Zvimba Rdc,16,2494
+Zvimba Rdc,16,2495
+Zvimba Rdc,16,2496
+Zvimba Rdc,17,2497
+Zvimba Rdc,17,2498
+Zvimba Rdc,18,2499
+Zvimba Rdc,19,2500
+Zvimba Rdc,19,2501
+Zvimba Rdc,20,2502
+Zvimba Rdc,20,2503
+Zvimba Rdc,21,2504
+Zvimba Rdc,21,2505
+Zvimba Rdc,22,2506
+Zvimba Rdc,22,2507
+Zvimba Rdc,23,2508
+Zvimba Rdc,23,2509
+Zvimba Rdc,24,2510
+Zvimba Rdc,24,2511
+Zvimba Rdc,25,2512
+Zvimba Rdc,25,2513
+Zvimba Rdc,26,2514
+Zvimba Rdc,26,2515
+Zvimba Rdc,27,2516
+Zvimba Rdc,27,2517
+Zvimba Rdc,28,2518
+Zvimba Rdc,29,2519
+Zvimba Rdc,29,2520
+Zvimba Rdc,30,2521
+Zvimba Rdc,31,2522
+Zvimba Rdc,31,2523
+Zvimba Rdc,32,2524
+Zvimba Rdc,32,2525
+Zvimba Rdc,33,2526
+Zvimba Rdc,33,2527
+Zvimba Rdc,34,2528
+Zvimba Rdc,34,2529
+Zvimba Rdc,35,2530
+Zvimba Rdc,35,2531
+Zvimba Rdc,35,2532
+Bikita RDC,1,2533
+Bikita RDC,1,2534
+Bikita RDC,1,2535
+Bikita RDC,2,2536
+Bikita RDC,2,2537
+Bikita RDC,3,2538
+Bikita RDC,3,2539
+Bikita RDC,4,2540
+Bikita RDC,4,2541
+Bikita RDC,5,2542
+Bikita RDC,5,2543
+Bikita RDC,5,2544
+Bikita RDC,5,2545
+Bikita RDC,6,2546
+Bikita RDC,6,2547
+Bikita RDC,7,2548
+Bikita RDC,7,2549
+Bikita RDC,8,2550
+Bikita RDC,8,2551
+Bikita RDC,9,2552
+Bikita RDC,9,2553
+Bikita RDC,10,2554
+Bikita RDC,10,2555
+Bikita RDC,11,2556
+Bikita RDC,11,2557
+Bikita RDC,12,2558
+Bikita RDC,12,2559
+Bikita RDC,13,2560
+Bikita RDC,13,2561
+Bikita RDC,14,2562
+Bikita RDC,14,2563
+Bikita RDC,15,2564
+Bikita RDC,15,2565
+Bikita RDC,16,2566
+Bikita RDC,16,2567
+Bikita RDC,17,2568
+Bikita RDC,17,2569
+Bikita RDC,18,2570
+Bikita RDC,18,2571
+Bikita RDC,18,2572
+Bikita RDC,19,2573
+Bikita RDC,19,2574
+Bikita RDC,20,2575
+Bikita RDC,20,2576
+Bikita RDC,21,2577
+Bikita RDC,21,2578
+Bikita RDC,21,2579
+Bikita RDC,22,2580
+Bikita RDC,22,2581
+Bikita RDC,23,2582
+Bikita RDC,23,2583
+Bikita RDC,24,2584
+Bikita RDC,24,2585
+Bikita RDC,25,2586
+Bikita RDC,25,2587
+Bikita RDC,26,2588
+Bikita RDC,26,2589
+Bikita RDC,27,2590
+Bikita RDC,27,2591
+Bikita RDC,28,2592
+Bikita RDC,28,2593
+Bikita RDC,29,2594
+Bikita RDC,29,2595
+Bikita RDC,30,2596
+Bikita RDC,30,2597
+Bikita RDC,30,2598
+Bikita RDC,31,2599
+Bikita RDC,31,2600
+Bikita RDC,32,2601
+Bikita RDC,32,2602
+Chiredzi RDC,1,2603
+Chiredzi RDC,1,2604
+Chiredzi RDC,2,2605
+Chiredzi RDC,2,2606
+Chiredzi RDC,3,2607
+Chiredzi RDC,3,2608
+Chiredzi RDC,4,2609
+Chiredzi RDC,4,2610
+Chiredzi RDC,5,2611
+Chiredzi RDC,5,2612
+Chiredzi RDC,6,2613
+Chiredzi RDC,6,2614
+Chiredzi RDC,7,2615
+Chiredzi RDC,7,2616
+Chiredzi RDC,7,2617
+Chiredzi RDC,8,2618
+Chiredzi RDC,8,2619
+Chiredzi RDC,9,2620
+Chiredzi RDC,9,2621
+Chiredzi RDC,10,2622
+Chiredzi RDC,10,2623
+Chiredzi RDC,11,2624
+Chiredzi RDC,11,2625
+Chiredzi RDC,12,2626
+Chiredzi RDC,13,2627
+Chiredzi RDC,14,2628
+Chiredzi RDC,15,2629
+Chiredzi RDC,15,2630
+Chiredzi RDC,16,2631
+Chiredzi RDC,16,2632
+Chiredzi RDC,17,2633
+Chiredzi RDC,17,2634
+Chiredzi RDC,18,2635
+Chiredzi RDC,18,2636
+Chiredzi RDC,19,2637
+Chiredzi RDC,19,2638
+Chiredzi RDC,20,2639
+Chiredzi RDC,20,2640
+Chiredzi RDC,21,2641
+Chiredzi RDC,21,2642
+Chiredzi RDC,22,2643
+Chiredzi RDC,22,2644
+Chiredzi RDC,23,2645
+Chiredzi RDC,23,2646
+Chiredzi RDC,24,2647
+Chiredzi RDC,24,2648
+Chiredzi RDC,25,2649
+Chiredzi RDC,25,2650
+Chiredzi RDC,26,2651
+Chiredzi RDC,26,2652
+Chiredzi RDC,27,2653
+Chiredzi RDC,27,2654
+Chiredzi RDC,28,2655
+Chiredzi RDC,28,2656
+Chiredzi RDC,29,2657
+Chiredzi RDC,29,2658
+Chiredzi RDC,30,2659
+Chiredzi RDC,30,2660
+Chiredzi RDC,31,2661
+Chiredzi RDC,31,2662
+Chiredzi RDC,32,2663
+Chiredzi RDC,32,2664
+Chiredzi Town Council,1,2665
+Chiredzi Town Council,1,2666
+Chiredzi Town Council,1,2667
+Chiredzi Town Council,2,2668
+Chiredzi Town Council,2,2669
+Chiredzi Town Council,2,2670
+Chiredzi Town Council,3,2671
+Chiredzi Town Council,3,2672
+Chiredzi Town Council,3,2673
+Chiredzi Town Council,4,2674
+Chiredzi Town Council,4,2675
+Chiredzi Town Council,4,2676
+Chiredzi Town Council,5,2677
+Chiredzi Town Council,5,2678
+Chiredzi Town Council,6,2679
+Chiredzi Town Council,6,2680
+Chiredzi Town Council,7,2681
+Chiredzi Town Council,7,2682
+Chiredzi Town Council,7,2683
+Chiredzi Town Council,8,2684
+Chiredzi Town Council,8,2685
+Chivi RDC,1,2686
+Chivi RDC,1,2687
+Chivi RDC,1,2688
+Chivi RDC,2,2689
+Chivi RDC,2,2690
+Chivi RDC,3,2691
+Chivi RDC,3,2692
+Chivi RDC,4,2693
+Chivi RDC,4,2694
+Chivi RDC,5,2695
+Chivi RDC,5,2696
+Chivi RDC,6,2697
+Chivi RDC,6,2698
+Chivi RDC,7,2699
+Chivi RDC,7,2700
+Chivi RDC,8,2701
+Chivi RDC,8,2702
+Chivi RDC,9,2703
+Chivi RDC,9,2704
+Chivi RDC,10,2705
+Chivi RDC,11,2706
+Chivi RDC,11,2707
+Chivi RDC,12,2708
+Chivi RDC,12,2709
+Chivi RDC,12,2710
+Chivi RDC,13,2711
+Chivi RDC,13,2712
+Chivi RDC,14,2713
+Chivi RDC,14,2714
+Chivi RDC,15,2715
+Chivi RDC,15,2716
+Chivi RDC,16,2717
+Chivi RDC,16,2718
+Chivi RDC,16,2719
+Chivi RDC,17,2720
+Chivi RDC,17,2721
+Chivi RDC,18,2722
+Chivi RDC,18,2723
+Chivi RDC,18,2724
+Chivi RDC,19,2725
+Chivi RDC,19,2726
+Chivi RDC,19,2727
+Chivi RDC,20,2728
+Chivi RDC,20,2729
+Chivi RDC,21,2730
+Chivi RDC,21,2731
+Chivi RDC,22,2732
+Chivi RDC,23,2733
+Chivi RDC,23,2734
+Chivi RDC,24,2735
+Chivi RDC,24,2736
+Chivi RDC,25,2737
+Chivi RDC,25,2738
+Chivi RDC,26,2739
+Chivi RDC,26,2740
+Chivi RDC,27,2741
+Chivi RDC,28,2742
+Chivi RDC,28,2743
+Chivi RDC,29,2744
+Chivi RDC,29,2745
+Chivi RDC,30,2746
+Chivi RDC,30,2747
+Chivi RDC,31,2748
+Chivi RDC,31,2749
+Chivi RDC,32,2750
+Chivi RDC,32,2751
+Gutu RDC,1,2752
+Gutu RDC,1,2753
+Gutu RDC,2,2754
+Gutu RDC,2,2755
+Gutu RDC,2,2756
+Gutu RDC,3,2757
+Gutu RDC,3,2758
+Gutu RDC,4,2759
+Gutu RDC,4,2760
+Gutu RDC,5,2761
+Gutu RDC,5,2762
+Gutu RDC,5,2763
+Gutu RDC,6,2764
+Gutu RDC,6,2765
+Gutu RDC,7,2766
+Gutu RDC,7,2767
+Gutu RDC,8,2768
+Gutu RDC,8,2769
+Gutu RDC,8,2770
+Gutu RDC,9,2771
+Gutu RDC,9,2772
+Gutu RDC,10,2773
+Gutu RDC,10,2774
+Gutu RDC,10,2775
+Gutu RDC,11,2776
+Gutu RDC,11,2777
+Gutu RDC,11,2778
+Gutu RDC,12,2779
+Gutu RDC,12,2780
+Gutu RDC,13,2781
+Gutu RDC,13,2782
+Gutu RDC,14,2783
+Gutu RDC,14,2784
+Gutu RDC,15,2785
+Gutu RDC,15,2786
+Gutu RDC,16,2787
+Gutu RDC,16,2788
+Gutu RDC,17,2789
+Gutu RDC,17,2790
+Gutu RDC,17,2791
+Gutu RDC,18,2792
+Gutu RDC,18,2793
+Gutu RDC,19,2794
+Gutu RDC,19,2795
+Gutu RDC,20,2796
+Gutu RDC,20,2797
+Gutu RDC,21,2798
+Gutu RDC,21,2799
+Gutu RDC,21,2800
+Gutu RDC,21,2801
+Gutu RDC,22,2802
+Gutu RDC,22,2803
+Gutu RDC,22,2804
+Gutu RDC,23,2805
+Gutu RDC,23,2806
+Gutu RDC,23,2807
+Gutu RDC,24,2808
+Gutu RDC,24,2809
+Gutu RDC,25,2810
+Gutu RDC,25,2811
+Gutu RDC,25,2812
+Gutu RDC,26,2813
+Gutu RDC,26,2814
+Gutu RDC,27,2815
+Gutu RDC,27,2816
+Gutu RDC,28,2817
+Gutu RDC,28,2818
+Gutu RDC,29,2819
+Gutu RDC,29,2820
+Gutu RDC,30,2821
+Gutu RDC,30,2822
+Gutu RDC,31,2823
+Gutu RDC,31,2824
+Gutu RDC,32,2825
+Gutu RDC,32,2826
+Gutu RDC,33,2827
+Gutu RDC,33,2828
+Gutu RDC,33,2829
+Gutu RDC,34,2830
+Gutu RDC,34,2831
+Gutu RDC,34,2832
+Gutu RDC,35,2833
+Gutu RDC,35,2834
+Gutu RDC,36,2835
+Gutu RDC,36,2836
+Gutu RDC,37,2837
+Gutu RDC,37,2838
+Gutu RDC,37,2839
+Gutu RDC,38,2840
+Gutu RDC,38,2841
+Gutu RDC,38,2842
+Gutu RDC,39,2843
+Gutu RDC,39,2844
+Gutu RDC,40,2845
+Gutu RDC,40,2846
+Gutu RDC,41,2847
+Gutu RDC,41,2848
+Masvingo Municipality,1,2849
+Masvingo Municipality,1,2850
+Masvingo Municipality,1,2851
+Masvingo Municipality,2,2852
+Masvingo Municipality,2,2853
+Masvingo Municipality,2,2854
+Masvingo Municipality,3,2855
+Masvingo Municipality,3,2856
+Masvingo Municipality,4,2857
+Masvingo Municipality,4,2858
+Masvingo Municipality,5,2859
+Masvingo Municipality,5,2860
+Masvingo Municipality,6,2861
+Masvingo Municipality,6,2862
+Masvingo Municipality,7,2863
+Masvingo Municipality,7,2864
+Masvingo Municipality,8,2865
+Masvingo Municipality,8,2866
+Masvingo Municipality,9,2867
+Masvingo Municipality,9,2868
+Masvingo Municipality,10,2869
+Masvingo Municipality,10,2870
+Masvingo RDC,1,2871
+Masvingo RDC,1,2872
+Masvingo RDC,2,2873
+Masvingo RDC,2,2874
+Masvingo RDC,3,2875
+Masvingo RDC,3,2876
+Masvingo RDC,4,2877
+Masvingo RDC,4,2878
+Masvingo RDC,5,2879
+Masvingo RDC,5,2880
+Masvingo RDC,6,2881
+Masvingo RDC,6,2882
+Masvingo RDC,7,2883
+Masvingo RDC,7,2884
+Masvingo RDC,8,2885
+Masvingo RDC,8,2886
+Masvingo RDC,9,2887
+Masvingo RDC,9,2888
+Masvingo RDC,10,2889
+Masvingo RDC,10,2890
+Masvingo RDC,10,2891
+Masvingo RDC,11,2892
+Masvingo RDC,11,2893
+Masvingo RDC,12,2894
+Masvingo RDC,12,2895
+Masvingo RDC,13,2896
+Masvingo RDC,13,2897
+Masvingo RDC,14,2898
+Masvingo RDC,14,2899
+Masvingo RDC,15,2900
+Masvingo RDC,15,2901
+Masvingo RDC,16,2902
+Masvingo RDC,16,2903
+Masvingo RDC,17,2904
+Masvingo RDC,17,2905
+Masvingo RDC,18,2906
+Masvingo RDC,18,2907
+Masvingo RDC,19,2908
+Masvingo RDC,19,2909
+Masvingo RDC,20,2910
+Masvingo RDC,20,2911
+Masvingo RDC,21,2912
+Masvingo RDC,21,2913
+Masvingo RDC,22,2914
+Masvingo RDC,22,2915
+Masvingo RDC,23,2916
+Masvingo RDC,23,2917
+Masvingo RDC,24,2918
+Masvingo RDC,24,2919
+Masvingo RDC,25,2920
+Masvingo RDC,25,2921
+Masvingo RDC,26,2922
+Masvingo RDC,26,2923
+Masvingo RDC,27,2924
+Masvingo RDC,27,2925
+Masvingo RDC,28,2926
+Masvingo RDC,28,2927
+Masvingo RDC,29,2928
+Masvingo RDC,29,2929
+Masvingo RDC,30,2930
+Masvingo RDC,30,2931
+Masvingo RDC,31,2932
+Masvingo RDC,31,2933
+Masvingo RDC,32,2934
+Masvingo RDC,32,2935
+Masvingo RDC,33,2936
+Masvingo RDC,33,2937
+Masvingo RDC,34,2938
+Masvingo RDC,34,2939
+Masvingo RDC,35,2940
+Masvingo RDC,35,2941
+Mwenezi RDC,1,2942
+Mwenezi RDC,1,2943
+Mwenezi RDC,2,2944
+Mwenezi RDC,2,2945
+Mwenezi RDC,3,2946
+Mwenezi RDC,3,2947
+Mwenezi RDC,4,2948
+Mwenezi RDC,4,2949
+Mwenezi RDC,5,2950
+Mwenezi RDC,5,2951
+Mwenezi RDC,6,2952
+Mwenezi RDC,6,2953
+Mwenezi RDC,7,2954
+Mwenezi RDC,7,2955
+Mwenezi RDC,8,2956
+Mwenezi RDC,8,2957
+Mwenezi RDC,9,2958
+Mwenezi RDC,10,2959
+Mwenezi RDC,10,2960
+Mwenezi RDC,11,2961
+Mwenezi RDC,12,2962
+Mwenezi RDC,13,2963
+Mwenezi RDC,13,2964
+Mwenezi RDC,14,2965
+Mwenezi RDC,15,2966
+Mwenezi RDC,15,2967
+Mwenezi RDC,16,2968
+Mwenezi RDC,16,2969
+Mwenezi RDC,17,2970
+Mwenezi RDC,18,2971
+Mwenezi RDC,18,2972
+Zaka RDC,1,2973
+Zaka RDC,1,2974
+Zaka RDC,2,2975
+Zaka RDC,2,2976
+Zaka RDC,2,2977
+Zaka RDC,3,2978
+Zaka RDC,3,2979
+Zaka RDC,4,2980
+Zaka RDC,4,2981
+Zaka RDC,5,2982
+Zaka RDC,5,2983
+Zaka RDC,6,2984
+Zaka RDC,6,2985
+Zaka RDC,7,2986
+Zaka RDC,7,2987
+Zaka RDC,8,2988
+Zaka RDC,8,2989
+Zaka RDC,9,2990
+Zaka RDC,9,2991
+Zaka RDC,10,2992
+Zaka RDC,10,2993
+Zaka RDC,11,2994
+Zaka RDC,11,2995
+Zaka RDC,12,2996
+Zaka RDC,12,2997
+Zaka RDC,13,2998
+Zaka RDC,13,2999
+Zaka RDC,14,3000
+Zaka RDC,14,3001
+Zaka RDC,15,3002
+Zaka RDC,15,3003
+Zaka RDC,16,3004
+Zaka RDC,16,3005
+Zaka RDC,17,3006
+Zaka RDC,17,3007
+Zaka RDC,18,3008
+Zaka RDC,18,3009
+Zaka RDC,19,3010
+Zaka RDC,19,3011
+Zaka RDC,20,3012
+Zaka RDC,20,3013
+Zaka RDC,21,3014
+Zaka RDC,21,3015
+Zaka RDC,22,3016
+Zaka RDC,22,3017
+Zaka RDC,23,3018
+Zaka RDC,23,3019
+Zaka RDC,24,3020
+Zaka RDC,24,3021
+Zaka RDC,25,3022
+Zaka RDC,25,3023
+Zaka RDC,26,3024
+Zaka RDC,26,3025
+Zaka RDC,27,3026
+Zaka RDC,27,3027
+Zaka RDC,28,3028
+Zaka RDC,28,3029
+Zaka RDC,29,3030
+Zaka RDC,29,3031
+Zaka RDC,30,3032
+Zaka RDC,30,3033
+Zaka RDC,30,3034
+Zaka RDC,31,3035
+Zaka RDC,31,3036
+Zaka RDC,32,3037
+Zaka RDC,32,3038
+Zaka RDC,33,3039
+Zaka RDC,33,3040
+Zaka RDC,33,3041
+Zaka RDC,34,3042
+Zaka RDC,34,3043
+BINGA RDC,1,3044
+BINGA RDC,1,3045
+BINGA RDC,1,3046
+BINGA RDC,2,3047
+BINGA RDC,2,3048
+BINGA RDC,2,3049
+BINGA RDC,3,3050
+BINGA RDC,3,3051
+BINGA RDC,3,3052
+BINGA RDC,4,3053
+BINGA RDC,4,3054
+BINGA RDC,4,3055
+BINGA RDC,4,3056
+BINGA RDC,5,3057
+BINGA RDC,5,3058
+BINGA RDC,5,3059
+BINGA RDC,6,3060
+BINGA RDC,6,3061
+BINGA RDC,6,3062
+BINGA RDC,7,3063
+BINGA RDC,7,3064
+BINGA RDC,7,3065
+BINGA RDC,8,3066
+BINGA RDC,8,3067
+BINGA RDC,9,3068
+BINGA RDC,9,3069
+BINGA RDC,9,3070
+BINGA RDC,10,3071
+BINGA RDC,10,3072
+BINGA RDC,10,3073
+BINGA RDC,11,3074
+BINGA RDC,11,3075
+BINGA RDC,12,3076
+BINGA RDC,12,3077
+BINGA RDC,13,3078
+BINGA RDC,13,3079
+BINGA RDC,13,3080
+BINGA RDC,14,3081
+BINGA RDC,14,3082
+BINGA RDC,14,3083
+BINGA RDC,15,3084
+BINGA RDC,15,3085
+BINGA RDC,15,3086
+BINGA RDC,16,3087
+BINGA RDC,16,3088
+BINGA RDC,16,3089
+BINGA RDC,16,3090
+BINGA RDC,17,3091
+BINGA RDC,17,3092
+BINGA RDC,17,3093
+BINGA RDC,17,3094
+BINGA RDC,18,3095
+BINGA RDC,18,3096
+BINGA RDC,18,3097
+BINGA RDC,19,3098
+BINGA RDC,19,3099
+BINGA RDC,19,3100
+BINGA RDC,20,3101
+BINGA RDC,20,3102
+BINGA RDC,21,3103
+BINGA RDC,21,3104
+BINGA RDC,22,3105
+BINGA RDC,22,3106
+BINGA RDC,22,3107
+BINGA RDC,23,3108
+BINGA RDC,23,3109
+BINGA RDC,23,3110
+BINGA RDC,24,3111
+BINGA RDC,24,3112
+BINGA RDC,24,3113
+BINGA RDC,25,3114
+BINGA RDC,25,3115
+BINGA RDC,25,3116
+BUBI RDC,1,3117
+BUBI RDC,1,3118
+BUBI RDC,1,3119
+BUBI RDC,2,3120
+BUBI RDC,2,3121
+BUBI RDC,2,3122
+BUBI RDC,3,3123
+BUBI RDC,3,3124
+BUBI RDC,3,3125
+BUBI RDC,4,3126
+BUBI RDC,4,3127
+BUBI RDC,4,3128
+BUBI RDC,5,3129
+BUBI RDC,5,3130
+BUBI RDC,6,3131
+BUBI RDC,7,3132
+BUBI RDC,7,3133
+BUBI RDC,7,3134
+BUBI RDC,8,3135
+BUBI RDC,8,3136
+BUBI RDC,9,3137
+BUBI RDC,9,3138
+BUBI RDC,10,3139
+BUBI RDC,10,3140
+BUBI RDC,11,3141
+BUBI RDC,11,3142
+BUBI RDC,11,3143
+BUBI RDC,11,3144
+BUBI RDC,12,3145
+BUBI RDC,12,3146
+BUBI RDC,13,3147
+BUBI RDC,13,3148
+BUBI RDC,14,3149
+BUBI RDC,14,3150
+BUBI RDC,15,3151
+BUBI RDC,15,3152
+BUBI RDC,15,3153
+BUBI RDC,15,3154
+BUBI RDC,16,3155
+BUBI RDC,16,3156
+BUBI RDC,17,3157
+BUBI RDC,17,3158
+BUBI RDC,17,3159
+BUBI RDC,18,3160
+BUBI RDC,18,3161
+BUBI RDC,18,3162
+BUBI RDC,19,3163
+BUBI RDC,19,3164
+BUBI RDC,19,3165
+BUBI RDC,20,3166
+BUBI RDC,20,3167
+BUBI RDC,21,3168
+BUBI RDC,21,3169
+BUBI RDC,22,3170
+BUBI RDC,22,3171
+BUBI RDC,23,3172
+BUBI RDC,23,3173
+HWANGE LOCAL BOARD,1,3174
+HWANGE LOCAL BOARD,1,3175
+HWANGE LOCAL BOARD,2,3176
+HWANGE LOCAL BOARD,2,3177
+HWANGE LOCAL BOARD,3,3178
+HWANGE LOCAL BOARD,3,3179
+HWANGE LOCAL BOARD,4,3180
+HWANGE LOCAL BOARD,4,3181
+HWANGE LOCAL BOARD,5,3182
+HWANGE LOCAL BOARD,5,3183
+HWANGE LOCAL BOARD,6,3184
+HWANGE LOCAL BOARD,6,3185
+HWANGE LOCAL BOARD,6,3186
+HWANGE LOCAL BOARD,7,3187
+HWANGE LOCAL BOARD,8,3188
+HWANGE LOCAL BOARD,8,3189
+HWANGE LOCAL BOARD,8,3190
+HWANGE LOCAL BOARD,9,3191
+HWANGE LOCAL BOARD,9,3192
+HWANGE LOCAL BOARD,9,3193
+HWANGE LOCAL BOARD,9,3194
+HWANGE LOCAL BOARD,10,3195
+HWANGE LOCAL BOARD,10,3196
+HWANGE LOCAL BOARD,10,3197
+HWANGE LOCAL BOARD,11,3198
+HWANGE LOCAL BOARD,11,3199
+HWANGE LOCAL BOARD,11,3200
+HWANGE LOCAL BOARD,12,3201
+HWANGE LOCAL BOARD,12,3202
+HWANGE LOCAL BOARD,12,3203
+HWANGE LOCAL BOARD,13,3204
+HWANGE LOCAL BOARD,13,3205
+HWANGE LOCAL BOARD,13,3206
+HWANGE LOCAL BOARD,13,3207
+HWANGE LOCAL BOARD,14,3208
+HWANGE LOCAL BOARD,14,3209
+HWANGE LOCAL BOARD,14,3210
+HWANGE LOCAL BOARD,14,3211
+HWANGE LOCAL BOARD,15,3212
+HWANGE LOCAL BOARD,15,3213
+HWANGE RDC,1,3214
+HWANGE RDC,1,3215
+HWANGE RDC,2,3216
+HWANGE RDC,2,3217
+HWANGE RDC,2,3218
+HWANGE RDC,2,3219
+HWANGE RDC,2,3220
+HWANGE RDC,3,3221
+HWANGE RDC,3,3222
+HWANGE RDC,4,3223
+HWANGE RDC,4,3224
+HWANGE RDC,4,3225
+HWANGE RDC,5,3226
+HWANGE RDC,5,3227
+HWANGE RDC,5,3228
+HWANGE RDC,5,3229
+HWANGE RDC,6,3230
+HWANGE RDC,6,3231
+HWANGE RDC,6,3232
+HWANGE RDC,7,3233
+HWANGE RDC,7,3234
+HWANGE RDC,7,3235
+HWANGE RDC,8,3236
+HWANGE RDC,8,3237
+HWANGE RDC,8,3238
+HWANGE RDC,9,3239
+HWANGE RDC,9,3240
+HWANGE RDC,9,3241
+HWANGE RDC,10,3242
+HWANGE RDC,10,3243
+HWANGE RDC,10,3244
+HWANGE RDC,11,3245
+HWANGE RDC,11,3246
+HWANGE RDC,11,3247
+HWANGE RDC,12,3248
+HWANGE RDC,12,3249
+HWANGE RDC,13,3250
+HWANGE RDC,13,3251
+HWANGE RDC,14,3252
+HWANGE RDC,14,3253
+HWANGE RDC,14,3254
+HWANGE RDC,15,3255
+HWANGE RDC,15,3256
+HWANGE RDC,15,3257
+HWANGE RDC,16,3258
+HWANGE RDC,16,3259
+HWANGE RDC,17,3260
+HWANGE RDC,17,3261
+HWANGE RDC,17,3262
+HWANGE RDC,18,3263
+HWANGE RDC,19,3264
+HWANGE RDC,19,3265
+HWANGE RDC,20,3266
+HWANGE RDC,20,3267
+HWANGE RDC,20,3268
+KUSILE RDC,1,3269
+KUSILE RDC,1,3270
+KUSILE RDC,1,3271
+KUSILE RDC,2,3272
+KUSILE RDC,2,3273
+KUSILE RDC,2,3274
+KUSILE RDC,3,3275
+KUSILE RDC,3,3276
+KUSILE RDC,3,3277
+KUSILE RDC,4,3278
+KUSILE RDC,4,3279
+KUSILE RDC,4,3280
+KUSILE RDC,4,3281
+KUSILE RDC,5,3282
+KUSILE RDC,5,3283
+KUSILE RDC,5,3284
+KUSILE RDC,5,3285
+KUSILE RDC,6,3286
+KUSILE RDC,6,3287
+KUSILE RDC,6,3288
+KUSILE RDC,7,3289
+KUSILE RDC,7,3290
+KUSILE RDC,8,3291
+KUSILE RDC,8,3292
+KUSILE RDC,8,3293
+KUSILE RDC,9,3294
+KUSILE RDC,9,3295
+KUSILE RDC,9,3296
+KUSILE RDC,10,3297
+KUSILE RDC,10,3298
+KUSILE RDC,10,3299
+KUSILE RDC,11,3300
+KUSILE RDC,11,3301
+KUSILE RDC,11,3302
+KUSILE RDC,12,3303
+KUSILE RDC,12,3304
+KUSILE RDC,12,3305
+KUSILE RDC,13,3306
+KUSILE RDC,13,3307
+KUSILE RDC,13,3308
+KUSILE RDC,14,3309
+KUSILE RDC,14,3310
+KUSILE RDC,14,3311
+KUSILE RDC,15,3312
+KUSILE RDC,15,3313
+KUSILE RDC,15,3314
+KUSILE RDC,16,3315
+KUSILE RDC,16,3316
+KUSILE RDC,16,3317
+KUSILE RDC,17,3318
+KUSILE RDC,17,3319
+KUSILE RDC,17,3320
+KUSILE RDC,18,3321
+KUSILE RDC,18,3322
+KUSILE RDC,18,3323
+KUSILE RDC,19,3324
+KUSILE RDC,19,3325
+KUSILE RDC,19,3326
+KUSILE RDC,20,3327
+KUSILE RDC,20,3328
+KUSILE RDC,20,3329
+KUSILE RDC,21,3330
+KUSILE RDC,21,3331
+KUSILE RDC,21,3332
+KUSILE RDC,22,3333
+KUSILE RDC,22,3334
+KUSILE RDC,22,3335
+KUSILE RDC,23,3336
+KUSILE RDC,23,3337
+KUSILE RDC,23,3338
+KUSILE RDC,24,3339
+KUSILE RDC,24,3340
+KUSILE RDC,25,3341
+KUSILE RDC,26,3342
+KUSILE RDC,26,3343
+KUSILE RDC,26,3344
+KUSILE RDC,26,3345
+KUSILE RDC,27,3346
+KUSILE RDC,27,3347
+KUSILE RDC,28,3348
+KUSILE RDC,28,3349
+KUSILE RDC,28,3350
+NKAYI RDC,1,3351
+NKAYI RDC,1,3352
+NKAYI RDC,1,3353
+NKAYI RDC,1,3354
+NKAYI RDC,2,3355
+NKAYI RDC,2,3356
+NKAYI RDC,2,3357
+NKAYI RDC,2,3358
+NKAYI RDC,3,3359
+NKAYI RDC,3,3360
+NKAYI RDC,3,3361
+NKAYI RDC,3,3362
+NKAYI RDC,4,3363
+NKAYI RDC,4,3364
+NKAYI RDC,4,3365
+NKAYI RDC,5,3366
+NKAYI RDC,5,3367
+NKAYI RDC,5,3368
+NKAYI RDC,5,3369
+NKAYI RDC,6,3370
+NKAYI RDC,6,3371
+NKAYI RDC,6,3372
+NKAYI RDC,7,3373
+NKAYI RDC,7,3374
+NKAYI RDC,7,3375
+NKAYI RDC,7,3376
+NKAYI RDC,8,3377
+NKAYI RDC,8,3378
+NKAYI RDC,8,3379
+NKAYI RDC,9,3380
+NKAYI RDC,9,3381
+NKAYI RDC,9,3382
+NKAYI RDC,10,3383
+NKAYI RDC,10,3384
+NKAYI RDC,10,3385
+NKAYI RDC,10,3386
+NKAYI RDC,11,3387
+NKAYI RDC,11,3388
+NKAYI RDC,11,3389
+NKAYI RDC,12,3390
+NKAYI RDC,12,3391
+NKAYI RDC,12,3392
+NKAYI RDC,12,3393
+NKAYI RDC,13,3394
+NKAYI RDC,13,3395
+NKAYI RDC,13,3396
+NKAYI RDC,14,3397
+NKAYI RDC,14,3398
+NKAYI RDC,14,3399
+NKAYI RDC,14,3400
+NKAYI RDC,15,3401
+NKAYI RDC,15,3402
+NKAYI RDC,15,3403
+NKAYI RDC,15,3404
+NKAYI RDC,16,3405
+NKAYI RDC,16,3406
+NKAYI RDC,16,3407
+NKAYI RDC,16,3408
+NKAYI RDC,17,3409
+NKAYI RDC,17,3410
+NKAYI RDC,17,3411
+NKAYI RDC,17,3412
+Nkayi RDC,18,3413
+Nkayi RDC,18,3414
+Nkayi RDC,18,3415
+NKAYI RDC,19,3416
+NKAYI RDC,19,3417
+NKAYI RDC,19,3418
+NKAYI RDC,19,3419
+NKAYI RDC,20,3420
+NKAYI RDC,20,3421
+NKAYI RDC,20,3422
+NKAYI RDC,20,3423
+NKAYI RDC,21,3424
+NKAYI RDC,21,3425
+NKAYI RDC,21,3426
+NKAYI RDC,21,3427
+NKAYI RDC,22,3428
+NKAYI RDC,22,3429
+NKAYI RDC,22,3430
+NKAYI RDC,23,3431
+NKAYI RDC,23,3432
+NKAYI RDC,24,3433
+NKAYI RDC,24,3434
+NKAYI RDC,24,3435
+NKAYI RDC,24,3436
+NKAYI RDC,25,3437
+NKAYI RDC,25,3438
+NKAYI RDC,25,3439
+NKAYI RDC,25,3440
+NKAYI RDC,26,3441
+NKAYI RDC,26,3442
+NKAYI RDC,26,3443
+NKAYI RDC,26,3444
+NKAYI RDC,27,3445
+NKAYI RDC,27,3446
+NKAYI RDC,27,3447
+NKAYI RDC,27,3448
+NKAYI RDC,28,3449
+NKAYI RDC,28,3450
+NKAYI RDC,28,3451
+NKAYI RDC,28,3452
+NKAYI RDC,29,3453
+NKAYI RDC,29,3454
+NKAYI RDC,29,3455
+NKAYI RDC,29,3456
+NKAYI RDC,30,3457
+NKAYI RDC,30,3458
+NKAYI RDC,30,3459
+NKAYI RDC,30,3460
+TSHOLOTSHO RDC,1,3461
+TSHOLOTSHO RDC,1,3462
+TSHOLOTSHO RDC,1,3463
+TSHOLOTSHO RDC,1,3464
+TSHOLOTSHO RDC,2,3465
+TSHOLOTSHO RDC,2,3466
+TSHOLOTSHO RDC,2,3467
+TSHOLOTSHO RDC,3,3468
+TSHOLOTSHO RDC,3,3469
+TSHOLOTSHO RDC,3,3470
+TSHOLOTSHO RDC,4,3471
+TSHOLOTSHO RDC,4,3472
+TSHOLOTSHO RDC,4,3473
+TSHOLOTSHO RDC,5,3474
+TSHOLOTSHO RDC,5,3475
+TSHOLOTSHO RDC,5,3476
+TSHOLOTSHO RDC,6,3477
+TSHOLOTSHO RDC,6,3478
+TSHOLOTSHO RDC,6,3479
+TSHOLOTSHO RDC,6,3480
+TSHOLOTSHO RDC,7,3481
+TSHOLOTSHO RDC,7,3482
+TSHOLOTSHO RDC,7,3483
+TSHOLOTSHO RDC,8,3484
+TSHOLOTSHO RDC,8,3485
+TSHOLOTSHO RDC,8,3486
+TSHOLOTSHO RDC,9,3487
+TSHOLOTSHO RDC,9,3488
+TSHOLOTSHO RDC,9,3489
+TSHOLOTSHO RDC,9,3490
+TSHOLOTSHO RDC,10,3491
+TSHOLOTSHO RDC,10,3492
+TSHOLOTSHO RDC,10,3493
+TSHOLOTSHO RDC,11,3494
+TSHOLOTSHO RDC,11,3495
+TSHOLOTSHO RDC,11,3496
+TSHOLOTSHO RDC,11,3497
+TSHOLOTSHO RDC,12,3498
+TSHOLOTSHO RDC,12,3499
+TSHOLOTSHO RDC,12,3500
+TSHOLOTSHO RDC,12,3501
+TSHOLOTSHO RDC,13,3502
+TSHOLOTSHO RDC,13,3503
+TSHOLOTSHO RDC,13,3504
+TSHOLOTSHO RDC,13,3505
+TSHOLOTSHO RDC,14,3506
+TSHOLOTSHO RDC,14,3507
+TSHOLOTSHO RDC,14,3508
+TSHOLOTSHO RDC,14,3509
+TSHOLOTSHO RDC,15,3510
+TSHOLOTSHO RDC,15,3511
+TSHOLOTSHO RDC,15,3512
+TSHOLOTSHO RDC,15,3513
+TSHOLOTSHO RDC,16,3514
+TSHOLOTSHO RDC,16,3515
+TSHOLOTSHO RDC,16,3516
+TSHOLOTSHO RDC,17,3517
+TSHOLOTSHO RDC,17,3518
+TSHOLOTSHO RDC,17,3519
+TSHOLOTSHO RDC,18,3520
+TSHOLOTSHO RDC,18,3521
+TSHOLOTSHO RDC,18,3522
+TSHOLOTSHO RDC,19,3523
+TSHOLOTSHO RDC,19,3524
+TSHOLOTSHO RDC,19,3525
+TSHOLOTSHO RDC,20,3526
+TSHOLOTSHO RDC,20,3527
+TSHOLOTSHO RDC,21,3528
+TSHOLOTSHO RDC,21,3529
+TSHOLOTSHO RDC,21,3530
+TSHOLOTSHO RDC,22,3531
+TSHOLOTSHO RDC,22,3532
+TSHOLOTSHO RDC,22,3533
+TSHOLOTSHO RDC,22,3534
+UMGUZA RDC,1,3535
+UMGUZA RDC,1,3536
+UMGUZA RDC,1,3537
+UMGUZA RDC,2,3538
+UMGUZA RDC,2,3539
+UMGUZA RDC,2,3540
+UMGUZA RDC,3,3541
+UMGUZA RDC,3,3542
+UMGUZA RDC,3,3543
+UMGUZA RDC,3,3544
+UMGUZA RDC,3,3545
+UMGUZA RDC,4,3546
+UMGUZA RDC,4,3547
+UMGUZA RDC,4,3548
+UMGUZA RDC,5,3549
+UMGUZA RDC,5,3550
+UMGUZA RDC,6,3551
+UMGUZA RDC,6,3552
+UMGUZA RDC,6,3553
+UMGUZA RDC,7,3554
+UMGUZA RDC,7,3555
+UMGUZA RDC,7,3556
+UMGUZA RDC,8,3557
+UMGUZA RDC,8,3558
+UMGUZA RDC,9,3559
+UMGUZA RDC,9,3560
+UMGUZA RDC,10,3561
+UMGUZA RDC,10,3562
+UMGUZA RDC,11,3563
+UMGUZA RDC,11,3564
+UMGUZA RDC,11,3565
+UMGUZA RDC,12,3566
+UMGUZA RDC,12,3567
+UMGUZA RDC,13,3568
+UMGUZA RDC,13,3569
+UMGUZA RDC,14,3570
+UMGUZA RDC,14,3571
+UMGUZA RDC,15,3572
+UMGUZA RDC,15,3573
+UMGUZA RDC,16,3574
+UMGUZA RDC,16,3575
+UMGUZA RDC,16,3576
+UMGUZA RDC,16,3577
+UMGUZA RDC,16,3578
+UMGUZA RDC,17,3579
+UMGUZA RDC,17,3580
+UMGUZA RDC,18,3581
+UMGUZA RDC,18,3582
+UMGUZA RDC,18,3583
+UMGUZA RDC,19,3584
+VIC. FALLS MUNICIPALITY,1,3585
+VIC. FALLS MUNICIPALITY,1,3586
+VIC. FALLS MUNICIPALITY,2,3587
+VIC. FALLS MUNICIPALITY,2,3588
+VIC. FALLS MUNICIPALITY,3,3589
+VIC. FALLS MUNICIPALITY,3,3590
+VIC. FALLS MUNICIPALITY,3,3591
+VIC. FALLS MUNICIPALITY,3,3592
+VIC. FALLS MUNICIPALITY,4,3593
+VIC. FALLS MUNICIPALITY,4,3594
+VIC. FALLS MUNICIPALITY,5,3595
+VIC. FALLS MUNICIPALITY,5,3596
+VIC. FALLS MUNICIPALITY,5,3597
+VIC. FALLS MUNICIPALITY,6,3598
+VIC. FALLS MUNICIPALITY,6,3599
+VIC. FALLS MUNICIPALITY,6,3600
+VIC. FALLS MUNICIPALITY,6,3601
+VIC. FALLS MUNICIPALITY,7,3602
+VIC. FALLS MUNICIPALITY,7,3603
+VIC. FALLS MUNICIPALITY,7,3604
+VIC. FALLS MUNICIPALITY,7,3605
+VIC. FALLS MUNICIPALITY,8,3606
+VIC. FALLS MUNICIPALITY,8,3607
+VIC. FALLS MUNICIPALITY,8,3608
+VIC. FALLS MUNICIPALITY,8,3609
+VIC. FALLS MUNICIPALITY,9,3610
+VIC. FALLS MUNICIPALITY,10,3611
+VIC. FALLS MUNICIPALITY,10,3612
+VIC. FALLS MUNICIPALITY,10,3613
+VIC. FALLS MUNICIPALITY,11,3614
+VIC. FALLS MUNICIPALITY,11,3615
+VIC. FALLS MUNICIPALITY,11,3616
+VIC. FALLS MUNICIPALITY,11,3617
+VIC. FALLS MUNICIPALITY,11,3618
+BEITRIDGE RDC,1,3619
+BEITRIDGE RDC,1,3620
+BEITRIDGE RDC,2,3621
+BEITRIDGE RDC,2,3622
+BEITRIDGE RDC,3,3623
+BEITRIDGE RDC,3,3624
+BEITRIDGE RDC,4,3625
+BEITRIDGE RDC,4,3626
+BEITRIDGE RDC,5,3627
+BEITRIDGE RDC,5,3628
+BEITRIDGE RDC,6,3629
+BEITRIDGE RDC,6,3630
+BEITRIDGE RDC,7,3631
+BEITRIDGE RDC,7,3632
+BEITRIDGE RDC,8,3633
+BEITRIDGE RDC,8,3634
+BEITRIDGE RDC,9,3635
+BEITRIDGE RDC,9,3636
+BEITRIDGE RDC,9,3637
+BEITRIDGE RDC,10,3638
+BEITRIDGE RDC,10,3639
+BEITRIDGE RDC,10,3640
+BEITRIDGE RDC,11,3641
+BEITRIDGE RDC,11,3642
+BEITRIDGE RDC,12,3643
+BEITRIDGE RDC,12,3644
+BEITRIDGE RDC,12,3645
+BEITRIDGE RDC,13,3646
+BEITRIDGE RDC,13,3647
+BEITRIDGE RDC,14,3648
+BEITRIDGE RDC,14,3649
+BEITRIDGE RDC,15,3650
+BEITRIDGE RDC,15,3651
+BEITRIDGE TOWN COUNCIL,1,3652
+BEITRIDGE TOWN COUNCIL,1,3653
+BEITRIDGE TOWN COUNCIL,1,3654
+BEITRIDGE TOWN COUNCIL,2,3655
+BEITRIDGE TOWN COUNCIL,2,3656
+BEITRIDGE TOWN COUNCIL,3,3657
+BEITRIDGE TOWN COUNCIL,3,3658
+BEITRIDGE TOWN COUNCIL,3,3659
+BEITRIDGE TOWN COUNCIL,4,3660
+BEITRIDGE TOWN COUNCIL,4,3661
+BEITRIDGE TOWN COUNCIL,4,3662
+BEITRIDGE TOWN COUNCIL,5,3663
+BEITRIDGE TOWN COUNCIL,5,3664
+BEITRIDGE TOWN COUNCIL,5,3665
+BEITRIDGE TOWN COUNCIL,6,3666
+BEITRIDGE TOWN COUNCIL,6,3667
+BEITRIDGE TOWN COUNCIL,6,3668
+BULILIMA RDC,1,3669
+BULILIMA RDC,1,3670
+BULILIMA RDC,1,3671
+BULILIMA RDC,1,3672
+BULILIMA RDC,2,3673
+BULILIMA RDC,2,3674
+BULILIMA RDC,3,3675
+BULILIMA RDC,3,3676
+BULILIMA RDC,3,3677
+BULILIMA RDC,4,3678
+BULILIMA RDC,4,3679
+BULILIMA RDC,4,3680
+BULILIMA RDC,5,3681
+BULILIMA RDC,5,3682
+BULILIMA RDC,5,3683
+BULILIMA RDC,5,3684
+BULILIMA RDC,6,3685
+BULILIMA RDC,6,3686
+BULILIMA RDC,6,3687
+BULILIMA RDC,7,3688
+BULILIMA RDC,7,3689
+BULILIMA RDC,8,3690
+BULILIMA RDC,8,3691
+BULILIMA RDC,8,3692
+BULILIMA RDC,9,3693
+BULILIMA RDC,9,3694
+BULILIMA RDC,9,3695
+BULILIMA RDC,10,3696
+BULILIMA RDC,10,3697
+BULILIMA RDC,10,3698
+BULILIMA RDC,11,3699
+BULILIMA RDC,11,3700
+BULILIMA RDC,11,3701
+BULILIMA RDC,12,3702
+BULILIMA RDC,12,3703
+BULILIMA RDC,12,3704
+BULILIMA RDC,13,3705
+BULILIMA RDC,13,3706
+BULILIMA RDC,13,3707
+BULILIMA RDC,13,3708
+BULILIMA RDC,14,3709
+BULILIMA RDC,14,3710
+BULILIMA RDC,14,3711
+BULILIMA RDC,15,3712
+BULILIMA RDC,15,3713
+BULILIMA RDC,15,3714
+BULILIMA RDC,16,3715
+BULILIMA RDC,16,3716
+BULILIMA RDC,16,3717
+BULILIMA RDC,17,3718
+BULILIMA RDC,18,3719
+BULILIMA RDC,18,3720
+BULILIMA RDC,18,3721
+BULILIMA RDC,19,3722
+BULILIMA RDC,19,3723
+BULILIMA RDC,20,3724
+BULILIMA RDC,20,3725
+BULILIMA RDC,20,3726
+BULILIMA RDC,21,3727
+BULILIMA RDC,21,3728
+BULILIMA RDC,21,3729
+BULILIMA RDC,21,3730
+BULILIMA RDC,22,3731
+BULILIMA RDC,22,3732
+GWANDA MUNICIPALITY,1,3733
+GWANDA MUNICIPALITY,1,3734
+GWANDA MUNICIPALITY,1,3735
+GWANDA MUNICIPALITY,2,3736
+GWANDA MUNICIPALITY,2,3737
+GWANDA MUNICIPALITY,2,3738
+GWANDA MUNICIPALITY,3,3739
+GWANDA MUNICIPALITY,3,3740
+GWANDA MUNICIPALITY,3,3741
+GWANDA MUNICIPALITY,4,3742
+GWANDA MUNICIPALITY,4,3743
+GWANDA MUNICIPALITY,4,3744
+GWANDA MUNICIPALITY,5,3745
+GWANDA MUNICIPALITY,5,3746
+GWANDA MUNICIPALITY,5,3747
+GWANDA MUNICIPALITY,6,3748
+GWANDA MUNICIPALITY,6,3749
+GWANDA MUNICIPALITY,6,3750
+GWANDA MUNICIPALITY,6,3751
+GWANDA MUNICIPALITY,7,3752
+GWANDA MUNICIPALITY,7,3753
+GWANDA MUNICIPALITY,7,3754
+GWANDA MUNICIPALITY,7,3755
+GWANDA MUNICIPALITY,8,3756
+GWANDA MUNICIPALITY,8,3757
+GWANDA MUNICIPALITY,8,3758
+GWANDA MUNICIPALITY,9,3759
+GWANDA MUNICIPALITY,9,3760
+GWANDA MUNICIPALITY,9,3761
+GWANDA MUNICIPALITY,10,3762
+GWANDA MUNICIPALITY,10,3763
+GWANDA MUNICIPALITY,10,3764
+GWANDA RDC,1,3765
+GWANDA RDC,1,3766
+GWANDA RDC,1,3767
+GWANDA RDC,2,3768
+GWANDA RDC,2,3769
+GWANDA RDC,2,3770
+GWANDA RDC,3,3771
+GWANDA RDC,3,3772
+GWANDA RDC,4,3773
+GWANDA RDC,4,3774
+GWANDA RDC,4,3775
+GWANDA RDC,5,3776
+GWANDA RDC,5,3777
+GWANDA RDC,5,3778
+GWANDA RDC,6,3779
+GWANDA RDC,6,3780
+GWANDA RDC,6,3781
+GWANDA RDC,6,3782
+GWANDA RDC,7,3783
+GWANDA RDC,7,3784
+GWANDA RDC,7,3785
+GWANDA RDC,7,3786
+GWANDA RDC,8,3787
+GWANDA RDC,8,3788
+GWANDA RDC,8,3789
+GWANDA RDC,9,3790
+GWANDA RDC,9,3791
+GWANDA RDC,9,3792
+GWANDA RDC,10,3793
+GWANDA RDC,10,3794
+GWANDA RDC,11,3795
+GWANDA RDC,11,3796
+GWANDA RDC,11,3797
+GWANDA RDC,12,3798
+GWANDA RDC,12,3799
+GWANDA RDC,13,3800
+GWANDA RDC,13,3801
+GWANDA RDC,13,3802
+GWANDA RDC,14,3803
+GWANDA RDC,14,3804
+GWANDA RDC,14,3805
+GWANDA RDC,14,3806
+GWANDA RDC,15,3807
+GWANDA RDC,15,3808
+GWANDA RDC,16,3809
+GWANDA RDC,16,3810
+GWANDA RDC,16,3811
+GWANDA RDC,16,3812
+GWANDA RDC,17,3813
+GWANDA RDC,17,3814
+GWANDA RDC,17,3815
+GWANDA RDC,17,3816
+GWANDA RDC,18,3817
+GWANDA RDC,18,3818
+GWANDA RDC,18,3819
+GWANDA RDC,18,3820
+GWANDA RDC,19,3821
+GWANDA RDC,19,3822
+GWANDA RDC,19,3823
+GWANDA RDC,19,3824
+GWANDA RDC,20,3825
+GWANDA RDC,20,3826
+GWANDA RDC,20,3827
+GWANDA RDC,21,3828
+GWANDA RDC,21,3829
+GWANDA RDC,21,3830
+GWANDA RDC,22,3831
+GWANDA RDC,22,3832
+GWANDA RDC,22,3833
+GWANDA RDC,22,3834
+GWANDA RDC,23,3835
+GWANDA RDC,23,3836
+GWANDA RDC,23,3837
+GWANDA RDC,24,3838
+GWANDA RDC,24,3839
+INSIZA RDC,1,3840
+INSIZA RDC,1,3841
+INSIZA RDC,1,3842
+INSIZA RDC,2,3843
+INSIZA RDC,2,3844
+INSIZA RDC,2,3845
+INSIZA RDC,3,3846
+INSIZA RDC,3,3847
+INSIZA RDC,3,3848
+INSIZA RDC,4,3849
+INSIZA RDC,4,3850
+INSIZA RDC,4,3851
+INSIZA RDC,5,3852
+INSIZA RDC,5,3853
+INSIZA RDC,5,3854
+INSIZA RDC,6,3855
+INSIZA RDC,6,3856
+INSIZA RDC,6,3857
+INSIZA RDC,7,3858
+INSIZA RDC,7,3859
+INSIZA RDC,7,3860
+INSIZA RDC,8,3861
+INSIZA RDC,8,3862
+INSIZA RDC,8,3863
+INSIZA RDC,9,3864
+INSIZA RDC,9,3865
+INSIZA RDC,9,3866
+INSIZA RDC,9,3867
+INSIZA RDC,10,3868
+INSIZA RDC,10,3869
+INSIZA RDC,10,3870
+INSIZA RDC,11,3871
+INSIZA RDC,11,3872
+INSIZA RDC,11,3873
+INSIZA RDC,12,3874
+INSIZA RDC,12,3875
+INSIZA RDC,12,3876
+INSIZA RDC,12,3877
+INSIZA RDC,13,3878
+INSIZA RDC,13,3879
+INSIZA RDC,13,3880
+INSIZA RDC,13,3881
+INSIZA RDC,14,3882
+INSIZA RDC,14,3883
+INSIZA RDC,14,3884
+INSIZA RDC,15,3885
+INSIZA RDC,15,3886
+INSIZA RDC,15,3887
+INSIZA RDC,16,3888
+INSIZA RDC,16,3889
+INSIZA RDC,16,3890
+INSIZA RDC,17,3891
+INSIZA RDC,17,3892
+INSIZA RDC,17,3893
+INSIZA RDC,18,3894
+INSIZA RDC,18,3895
+INSIZA RDC,19,3896
+INSIZA RDC,19,3897
+INSIZA RDC,19,3898
+INSIZA RDC,19,3899
+INSIZA RDC,20,3900
+INSIZA RDC,20,3901
+INSIZA RDC,20,3902
+INSIZA RDC,21,3903
+INSIZA RDC,21,3904
+INSIZA RDC,22,3905
+INSIZA RDC,22,3906
+INSIZA RDC,22,3907
+INSIZA RDC,23,3908
+INSIZA RDC,23,3909
+INSIZA RDC,23,3910
+MANGWE RDC,1,3911
+MANGWE RDC,1,3912
+MANGWE RDC,1,3913
+MANGWE RDC,2,3914
+MANGWE RDC,2,3915
+MANGWE RDC,2,3916
+MANGWE RDC,3,3917
+MANGWE RDC,3,3918
+MANGWE RDC,3,3919
+MANGWE RDC,4,3920
+MANGWE RDC,4,3921
+MANGWE RDC,4,3922
+MANGWE RDC,5,3923
+MANGWE RDC,5,3924
+MANGWE RDC,5,3925
+MANGWE RDC,5,3926
+MANGWE RDC,6,3927
+MANGWE RDC,6,3928
+MANGWE RDC,6,3929
+MANGWE RDC,6,3930
+MANGWE RDC,7,3931
+MANGWE RDC,7,3932
+MANGWE RDC,7,3933
+MANGWE RDC,8,3934
+MANGWE RDC,8,3935
+MANGWE RDC,9,3936
+MANGWE RDC,9,3937
+MANGWE RDC,9,3938
+MANGWE RDC,10,3939
+MANGWE RDC,10,3940
+MANGWE RDC,10,3941
+MANGWE RDC,11,3942
+MANGWE RDC,12,3943
+MANGWE RDC,12,3944
+MANGWE RDC,12,3945
+MANGWE RDC,13,3946
+MANGWE RDC,13,3947
+MANGWE RDC,13,3948
+MANGWE RDC,13,3949
+MANGWE RDC,14,3950
+MANGWE RDC,14,3951
+MANGWE RDC,15,3952
+MANGWE RDC,15,3953
+MANGWE RDC,15,3954
+MANGWE RDC,16,3955
+MANGWE RDC,16,3956
+MANGWE RDC,16,3957
+MANGWE RDC,17,3958
+MANGWE RDC,17,3959
+MANGWE RDC,17,3960
+MATOBO RDC,1,3961
+MATOBO RDC,1,3962
+MATOBO RDC,1,3963
+MATOBO RDC,1,3964
+MATOBO RDC,2,3965
+MATOBO RDC,2,3966
+MATOBO RDC,2,3967
+MATOBO RDC,2,3968
+MATOBO RDC,3,3969
+MATOBO RDC,3,3970
+MATOBO RDC,3,3971
+MATOBO RDC,4,3972
+MATOBO RDC,4,3973
+MATOBO RDC,4,3974
+MATOBO RDC,5,3975
+MATOBO RDC,5,3976
+MATOBO RDC,6,3977
+MATOBO RDC,6,3978
+MATOBO RDC,6,3979
+MATOBO RDC,6,3980
+MATOBO RDC,7,3981
+MATOBO RDC,7,3982
+MATOBO RDC,7,3983
+MATOBO RDC,7,3984
+MATOBO RDC,8,3985
+MATOBO RDC,8,3986
+MATOBO RDC,8,3987
+MATOBO RDC,9,3988
+MATOBO RDC,9,3989
+MATOBO RDC,9,3990
+MATOBO RDC,10,3991
+MATOBO RDC,10,3992
+MATOBO RDC,11,3993
+MATOBO RDC,11,3994
+MATOBO RDC,12,3995
+MATOBO RDC,12,3996
+MATOBO RDC,12,3997
+MATOBO RDC,13,3998
+MATOBO RDC,13,3999
+MATOBO RDC,14,4000
+MATOBO RDC,14,4001
+MATOBO RDC,14,4002
+MATOBO RDC,14,4003
+MATOBO RDC,15,4004
+MATOBO RDC,15,4005
+MATOBO RDC,15,4006
+MATOBO RDC,15,4007
+MATOBO RDC,16,4008
+MATOBO RDC,16,4009
+MATOBO RDC,16,4010
+MATOBO RDC,16,4011
+MATOBO RDC,16,4012
+MATOBO RDC,17,4013
+MATOBO RDC,17,4014
+MATOBO RDC,18,4015
+MATOBO RDC,18,4016
+MATOBO RDC,19,4017
+MATOBO RDC,19,4018
+MATOBO RDC,19,4019
+MATOBO RDC,19,4020
+MATOBO RDC,20,4021
+MATOBO RDC,21,4022
+MATOBO RDC,21,4023
+MATOBO RDC,21,4024
+MATOBO RDC,22,4025
+MATOBO RDC,22,4026
+MATOBO RDC,22,4027
+MATOBO RDC,23,4028
+MATOBO RDC,24,4029
+MATOBO RDC,25,4030
+MATOBO RDC,25,4031
+MATOBO RDC,25,4032
+PLUMTREE TOWN COUNCIL,1,4033
+PLUMTREE TOWN COUNCIL,1,4034
+PLUMTREE TOWN COUNCIL,1,4035
+PLUMTREE TOWN COUNCIL,2,4036
+PLUMTREE TOWN COUNCIL,2,4037
+PLUMTREE TOWN COUNCIL,2,4038
+PLUMTREE TOWN COUNCIL,3,4039
+PLUMTREE TOWN COUNCIL,3,4040
+PLUMTREE TOWN COUNCIL,3,4041
+PLUMTREE TOWN COUNCIL,3,4042
+PLUMTREE TOWN COUNCIL,4,4043
+PLUMTREE TOWN COUNCIL,4,4044
+PLUMTREE TOWN COUNCIL,4,4045
+PLUMTREE TOWN COUNCIL,5,4046
+PLUMTREE TOWN COUNCIL,5,4047
+PLUMTREE TOWN COUNCIL,6,4048
+PLUMTREE TOWN COUNCIL,6,4049
+PLUMTREE TOWN COUNCIL,6,4050
+PLUMTREE TOWN COUNCIL,6,4051
+PLUMTREE TOWN COUNCIL,6,4052
+UMZINGWANE RDC,1,4053
+UMZINGWANE RDC,1,4054
+UMZINGWANE RDC,2,4055
+UMZINGWANE RDC,2,4056
+UMZINGWANE RDC,2,4057
+UMZINGWANE RDC,3,4058
+UMZINGWANE RDC,3,4059
+UMZINGWANE RDC,3,4060
+UMZINGWANE RDC,4,4061
+UMZINGWANE RDC,4,4062
+UMZINGWANE RDC,4,4063
+UMZINGWANE RDC,5,4064
+UMZINGWANE RDC,5,4065
+UMZINGWANE RDC,5,4066
+UMZINGWANE RDC,6,4067
+UMZINGWANE RDC,6,4068
+UMZINGWANE RDC,6,4069
+UMZINGWANE RDC,6,4070
+UMZINGWANE RDC,6,4071
+UMZINGWANE RDC,7,4072
+UMZINGWANE RDC,7,4073
+UMZINGWANE RDC,7,4074
+UMZINGWANE RDC,8,4075
+UMZINGWANE RDC,8,4076
+UMZINGWANE RDC,8,4077
+UMZINGWANE RDC,9,4078
+UMZINGWANE RDC,9,4079
+UMZINGWANE RDC,10,4080
+UMZINGWANE RDC,10,4081
+UMZINGWANE RDC,10,4082
+UMZINGWANE RDC,11,4083
+UMZINGWANE RDC,11,4084
+UMZINGWANE RDC,11,4085
+UMZINGWANE RDC,12,4086
+UMZINGWANE RDC,12,4087
+UMZINGWANE RDC,12,4088
+UMZINGWANE RDC,13,4089
+UMZINGWANE RDC,13,4090
+UMZINGWANE RDC,13,4091
+UMZINGWANE RDC,14,4092
+UMZINGWANE RDC,15,4093
+UMZINGWANE RDC,16,4094
+UMZINGWANE RDC,16,4095
+UMZINGWANE RDC,17,4096
+UMZINGWANE RDC,18,4097
+UMZINGWANE RDC,18,4098
+UMZINGWANE RDC,18,4099
+UMZINGWANE RDC,18,4100
+UMZINGWANE RDC,19,4101
+UMZINGWANE RDC,19,4102
+UMZINGWANE RDC,19,4103
+UMZINGWANE RDC,20,4104
+UMZINGWANE RDC,20,4105
+Gokwe North RDC,1,4106
+Gokwe North RDC,1,4107
+Gokwe North RDC,2,4108
+Gokwe North RDC,2,4109
+Gokwe North RDC,3,4110
+Gokwe North RDC,3,4111
+Gokwe North RDC,4,4112
+Gokwe North RDC,4,4113
+Gokwe North RDC,5,4114
+Gokwe North RDC,5,4115
+Gokwe North RDC,6,4116
+Gokwe North RDC,6,4117
+Gokwe North RDC,7,4118
+Gokwe North RDC,7,4119
+Gokwe North RDC,8,4120
+Gokwe North RDC,8,4121
+Gokwe North RDC,9,4122
+Gokwe North RDC,9,4123
+Gokwe North RDC,10,4124
+Gokwe North RDC,10,4125
+Gokwe North RDC,11,4126
+Gokwe North RDC,11,4127
+Gokwe North RDC,12,4128
+Gokwe North RDC,12,4129
+Gokwe North RDC,13,4130
+Gokwe North RDC,13,4131
+Gokwe North RDC,14,4132
+Gokwe North RDC,14,4133
+Gokwe North RDC,15,4134
+Gokwe North RDC,15,4135
+Gokwe North RDC,16,4136
+Gokwe North RDC,16,4137
+Gokwe North RDC,17,4138
+Gokwe North RDC,17,4139
+Gokwe North RDC,18,4140
+Gokwe North RDC,18,4141
+Gokwe North RDC,19,4142
+Gokwe North RDC,19,4143
+Gokwe North RDC,20,4144
+Gokwe North RDC,20,4145
+Gokwe North RDC,21,4146
+Gokwe North RDC,22,4147
+Gokwe North RDC,22,4148
+Gokwe North RDC,23,4149
+Gokwe North RDC,23,4150
+Gokwe North RDC,24,4151
+Gokwe North RDC,24,4152
+Gokwe North RDC,25,4153
+Gokwe North RDC,25,4154
+Gokwe North RDC,26,4155
+Gokwe North RDC,26,4156
+Gokwe North RDC,27,4157
+Gokwe North RDC,27,4158
+Gokwe North RDC,28,4159
+Gokwe North RDC,28,4160
+Gokwe North RDC,29,4161
+Gokwe North RDC,29,4162
+Gokwe North RDC,30,4163
+Gokwe North RDC,30,4164
+Gokwe North RDC,31,4165
+Gokwe North RDC,31,4166
+Gokwe North RDC,32,4167
+Gokwe North RDC,32,4168
+Gokwe North RDC,33,4169
+Gokwe North RDC,33,4170
+Gokwe North RDC,34,4171
+Gokwe North RDC,34,4172
+Gokwe North RDC,35,4173
+Gokwe North RDC,35,4174
+Gokwe North RDC,36,4175
+Gokwe North RDC,36,4176
+Gokwe South RDC,1,4177
+Gokwe South RDC,1,4178
+Gokwe South RDC,2,4179
+Gokwe South RDC,2,4180
+Gokwe South RDC,3,4181
+Gokwe South RDC,3,4182
+Gokwe South RDC,4,4183
+Gokwe South RDC,4,4184
+Gokwe South RDC,5,4185
+Gokwe South RDC,5,4186
+Gokwe South RDC,6,4187
+Gokwe South RDC,6,4188
+Gokwe South RDC,7,4189
+Gokwe South RDC,7,4190
+Gokwe South RDC,8,4191
+Gokwe South RDC,8,4192
+Gokwe South RDC,8,4193
+Gokwe South RDC,9,4194
+Gokwe South RDC,9,4195
+Gokwe South RDC,9,4196
+Gokwe South RDC,10,4197
+Gokwe South RDC,10,4198
+Gokwe South RDC,11,4199
+Gokwe South RDC,11,4200
+Gokwe South RDC,11,4201
+Gokwe South RDC,12,4202
+Gokwe South RDC,12,4203
+Gokwe South RDC,12,4204
+Gokwe South RDC,13,4205
+Gokwe South RDC,13,4206
+Gokwe South RDC,13,4207
+Gokwe South RDC,14,4208
+Gokwe South RDC,14,4209
+Gokwe South RDC,15,4210
+Gokwe South RDC,15,4211
+Gokwe South RDC,16,4212
+Gokwe South RDC,17,4213
+Gokwe South RDC,17,4214
+Gokwe South RDC,17,4215
+Gokwe South RDC,17,4216
+Gokwe South RDC,18,4217
+Gokwe South RDC,18,4218
+Gokwe South RDC,19,4219
+Gokwe South RDC,19,4220
+Gokwe South RDC,19,4221
+Gokwe South RDC,19,4222
+Gokwe South RDC,20,4223
+Gokwe South RDC,20,4224
+Gokwe South RDC,21,4225
+Gokwe South RDC,21,4226
+Gokwe South RDC,22,4227
+Gokwe South RDC,22,4228
+Gokwe South RDC,23,4229
+Gokwe South RDC,23,4230
+Gokwe South RDC,24,4231
+Gokwe South RDC,24,4232
+Gokwe South RDC,25,4233
+Gokwe South RDC,25,4234
+Gokwe South RDC,26,4235
+Gokwe South RDC,26,4236
+Gokwe South RDC,27,4237
+Gokwe South RDC,27,4238
+Gokwe South RDC,28,4239
+Gokwe South RDC,28,4240
+Gokwe South RDC,29,4241
+Gokwe South RDC,29,4242
+Gokwe South RDC,30,4243
+Gokwe South RDC,30,4244
+Gokwe South RDC,31,4245
+Gokwe South RDC,31,4246
+Gokwe South RDC,32,4247
+Gokwe South RDC,32,4248
+Gokwe South RDC,33,4249
+Gokwe South RDC,33,4250
+Gokwe South RDC,33,4251
+Gokwe Town Council,1,4252
+Gokwe Town Council,1,4253
+Gokwe Town Council,1,4254
+Gokwe Town Council,2,4255
+Gokwe Town Council,2,4256
+Gokwe Town Council,2,4257
+Gokwe Town Council,3,4258
+Gokwe Town Council,3,4259
+Gokwe Town Council,3,4260
+Gokwe Town Council,4,4261
+Gokwe Town Council,4,4262
+Gokwe Town Council,5,4263
+Gokwe Town Council,5,4264
+Gokwe Town Council,6,4265
+Gokwe Town Council,6,4266
+Gweru Municipality,1,4267
+Gweru Municipality,1,4268
+Gweru Municipality,1,4269
+Gweru Municipality,2,4270
+Gweru Municipality,2,4271
+Gweru Municipality,2,4272
+Gweru Municipality,2,4273
+Gweru Municipality,2,4274
+Gweru Municipality,3,4275
+Gweru Municipality,3,4276
+Gweru Municipality,3,4277
+Gweru Municipality,4,4278
+Gweru Municipality,4,4279
+Gweru Municipality,4,4280
+Gweru Municipality,4,4281
+Gweru Municipality,5,4282
+Gweru Municipality,5,4283
+Gweru Municipality,5,4284
+Gweru Municipality,5,4285
+Gweru Municipality,6,4286
+Gweru Municipality,6,4287
+Gweru Municipality,6,4288
+Gweru Municipality,6,4289
+Gweru Municipality,7,4290
+Gweru Municipality,7,4291
+Gweru Municipality,7,4292
+Gweru Municipality,7,4293
+Gweru Municipality,8,4294
+Gweru Municipality,8,4295
+Gweru Municipality,8,4296
+Gweru Municipality,8,4297
+Gweru Municipality,8,4298
+Gweru Municipality,9,4299
+Gweru Municipality,9,4300
+Gweru Municipality,9,4301
+Gweru Municipality,10,4302
+Gweru Municipality,10,4303
+Gweru Municipality,10,4304
+Gweru Municipality,10,4305
+Gweru Municipality,11,4306
+Gweru Municipality,11,4307
+Gweru Municipality,11,4308
+Gweru Municipality,11,4309
+Gweru Municipality,12,4310
+Gweru Municipality,12,4311
+Gweru Municipality,12,4312
+Gweru Municipality,12,4313
+Gweru Municipality,13,4314
+Gweru Municipality,13,4315
+Gweru Municipality,13,4316
+Gweru Municipality,13,4317
+Gweru Municipality,14,4318
+Gweru Municipality,14,4319
+Gweru Municipality,14,4320
+Gweru Municipality,14,4321
+Gweru Municipality,15,4322
+Gweru Municipality,15,4323
+Gweru Municipality,15,4324
+Gweru Municipality,16,4325
+Gweru Municipality,16,4326
+Gweru Municipality,16,4327
+Gweru Municipality,16,4328
+Gweru Municipality,17,4329
+Gweru Municipality,17,4330
+Gweru Municipality,17,4331
+Gweru Municipality,17,4332
+Gweru Municipality,18,4333
+Gweru Municipality,18,4334
+Gweru Municipality,18,4335
+Kwekwe Municipality,1,4336
+Kwekwe Municipality,1,4337
+Kwekwe Municipality,1,4338
+Kwekwe Municipality,2,4339
+Kwekwe Municipality,2,4340
+Kwekwe Municipality,2,4341
+Kwekwe Municipality,3,4342
+Kwekwe Municipality,3,4343
+Kwekwe Municipality,3,4344
+Kwekwe Municipality,4,4345
+Kwekwe Municipality,4,4346
+Kwekwe Municipality,4,4347
+Kwekwe Municipality,5,4348
+Kwekwe Municipality,5,4349
+Kwekwe Municipality,5,4350
+Kwekwe Municipality,6,4351
+Kwekwe Municipality,6,4352
+Kwekwe Municipality,6,4353
+Kwekwe Municipality,7,4354
+Kwekwe Municipality,7,4355
+Kwekwe Municipality,7,4356
+Kwekwe Municipality,8,4357
+Kwekwe Municipality,8,4358
+Kwekwe Municipality,8,4359
+Kwekwe Municipality,9,4360
+Kwekwe Municipality,9,4361
+Kwekwe Municipality,9,4362
+Kwekwe Municipality,10,4363
+Kwekwe Municipality,10,4364
+Kwekwe Municipality,11,4365
+Kwekwe Municipality,11,4366
+Kwekwe Municipality,11,4367
+Kwekwe Municipality,12,4368
+Kwekwe Municipality,12,4369
+Kwekwe Municipality,12,4370
+Kwekwe Municipality,13,4371
+Kwekwe Municipality,13,4372
+Kwekwe Municipality,13,4373
+Kwekwe Municipality,14,4374
+Kwekwe Municipality,14,4375
+Kwekwe Municipality,14,4376
+Mberengwa RDC,1,4377
+Mberengwa RDC,1,4378
+Mberengwa RDC,2,4379
+Mberengwa RDC,2,4380
+Mberengwa RDC,3,4381
+Mberengwa RDC,4,4382
+Mberengwa RDC,4,4383
+Mberengwa RDC,5,4384
+Mberengwa RDC,5,4385
+Mberengwa RDC,6,4386
+Mberengwa RDC,6,4387
+Mberengwa RDC,7,4388
+Mberengwa RDC,7,4389
+Mberengwa RDC,8,4390
+Mberengwa RDC,8,4391
+Mberengwa RDC,9,4392
+Mberengwa RDC,9,4393
+Mberengwa RDC,10,4394
+Mberengwa RDC,10,4395
+Mberengwa RDC,11,4396
+Mberengwa RDC,11,4397
+Mberengwa RDC,12,4398
+Mberengwa RDC,12,4399
+Mberengwa RDC,13,4400
+Mberengwa RDC,13,4401
+Mberengwa RDC,14,4402
+Mberengwa RDC,14,4403
+Mberengwa RDC,15,4404
+Mberengwa RDC,15,4405
+Mberengwa RDC,16,4406
+Mberengwa RDC,16,4407
+Mberengwa RDC,17,4408
+Mberengwa RDC,17,4409
+Mberengwa RDC,18,4410
+Mberengwa RDC,18,4411
+Mberengwa RDC,19,4412
+Mberengwa RDC,19,4413
+Mberengwa RDC,20,4414
+Mberengwa RDC,20,4415
+Mberengwa RDC,20,4416
+Mberengwa RDC,21,4417
+Mberengwa RDC,21,4418
+Mberengwa RDC,22,4419
+Mberengwa RDC,22,4420
+Mberengwa RDC,23,4421
+Mberengwa RDC,23,4422
+Mberengwa RDC,24,4423
+Mberengwa RDC,24,4424
+Mberengwa RDC,25,4425
+Mberengwa RDC,26,4426
+Mberengwa RDC,26,4427
+Mberengwa RDC,26,4428
+Mberengwa RDC,27,4429
+Mberengwa RDC,27,4430
+Mberengwa RDC,28,4431
+Mberengwa RDC,28,4432
+Mberengwa RDC,29,4433
+Mberengwa RDC,29,4434
+Mberengwa RDC,30,4435
+Mberengwa RDC,30,4436
+Mberengwa RDC,30,4437
+Mberengwa RDC,31,4438
+Mberengwa RDC,31,4439
+Mberengwa RDC,32,4440
+Mberengwa RDC,32,4441
+Mberengwa RDC,33,4442
+Mberengwa RDC,33,4443
+Mberengwa RDC,34,4444
+Mberengwa RDC,34,4445
+Mberengwa RDC,35,4446
+Mberengwa RDC,35,4447
+Mberengwa RDC,36,4448
+Mberengwa RDC,36,4449
+Mberengwa RDC,37,4450
+Mberengwa RDC,37,4451
+Redcliff Municipality,1,4452
+Redcliff Municipality,1,4453
+Redcliff Municipality,1,4454
+Redcliff Municipality,1,4455
+Redcliff Municipality,2,4456
+Redcliff Municipality,2,4457
+Redcliff Municipality,2,4458
+Redcliff Municipality,2,4459
+Redcliff Municipality,3,4460
+Redcliff Municipality,3,4461
+Redcliff Municipality,3,4462
+Redcliff Municipality,3,4463
+Redcliff Municipality,4,4464
+Redcliff Municipality,4,4465
+Redcliff Municipality,4,4466
+Redcliff Municipality,4,4467
+Redcliff Municipality,5,4468
+Redcliff Municipality,5,4469
+Redcliff Municipality,5,4470
+Redcliff Municipality,5,4471
+Redcliff Municipality,6,4472
+Redcliff Municipality,6,4473
+Redcliff Municipality,6,4474
+Redcliff Municipality,7,4475
+Redcliff Municipality,7,4476
+Redcliff Municipality,7,4477
+Redcliff Municipality,7,4478
+Redcliff Municipality,8,4479
+Redcliff Municipality,8,4480
+Redcliff Municipality,8,4481
+Redcliff Municipality,8,4482
+Redcliff Municipality,9,4483
+Redcliff Municipality,9,4484
+Redcliff Municipality,9,4485
+Runde RDC,1,4486
+Runde RDC,1,4487
+Runde RDC,2,4488
+Runde RDC,2,4489
+Runde RDC,2,4490
+Runde RDC,3,4491
+Runde RDC,3,4492
+Runde RDC,4,4493
+Runde RDC,4,4494
+Runde RDC,5,4495
+Runde RDC,5,4496
+Runde RDC,6,4497
+Runde RDC,6,4498
+Runde RDC,7,4499
+Runde RDC,7,4500
+Runde RDC,7,4501
+Runde RDC,8,4502
+Runde RDC,8,4503
+Runde RDC,8,4504
+Runde RDC,9,4505
+Runde RDC,9,4506
+Runde RDC,10,4507
+Runde RDC,10,4508
+Runde RDC,11,4509
+Runde RDC,11,4510
+Runde RDC,11,4511
+Runde RDC,12,4512
+Runde RDC,12,4513
+Runde RDC,13,4514
+Runde RDC,13,4515
+Runde RDC,13,4516
+Runde RDC,14,4517
+Runde RDC,14,4518
+Runde RDC,15,4519
+Runde RDC,15,4520
+Runde RDC,16,4521
+Runde RDC,16,4522
+Runde RDC,17,4523
+Runde RDC,17,4524
+Runde RDC,17,4525
+Runde RDC,18,4526
+Runde RDC,18,4527
+Runde RDC,19,4528
+Runde RDC,19,4529
+Shurugwi Town council,1,4530
+Shurugwi Town council,1,4531
+Shurugwi Town council,2,4532
+Shurugwi Town council,2,4533
+Shurugwi Town council,2,4534
+Shurugwi Town council,3,4535
+Shurugwi Town council,3,4536
+Shurugwi Town council,4,4537
+Shurugwi Town council,4,4538
+Shurugwi Town council,5,4539
+Shurugwi Town council,5,4540
+Shurugwi Town council,5,4541
+Shurugwi Town council,6,4542
+Shurugwi Town council,6,4543
+Shurugwi Town council,7,4544
+Shurugwi Town council,7,4545
+Shurugwi Town council,8,4546
+Shurugwi Town council,8,4547
+Shurugwi Town council,9,4548
+Shurugwi Town council,9,4549
+Shurugwi Town council,9,4550
+Shurugwi Town council,10,4551
+Shurugwi Town council,10,4552
+Shurugwi Town council,10,4553
+Shurugwi Town council,11,4554
+Shurugwi Town council,11,4555
+Shurugwi Town council,11,4556
+Shurugwi Town council,12,4557
+Shurugwi Town council,12,4558
+Shurugwi Town council,13,4559
+Shurugwi Town council,13,4560
+Takawira RDC,1,4561
+Takawira RDC,1,4562
+Takawira RDC,2,4563
+Takawira RDC,2,4564
+Takawira RDC,2,4565
+Takawira RDC,3,4566
+Takawira RDC,3,4567
+Takawira RDC,4,4568
+Takawira RDC,4,4569
+Takawira RDC,5,4570
+Takawira RDC,5,4571
+Takawira RDC,6,4572
+Takawira RDC,6,4573
+Takawira RDC,7,4574
+Takawira RDC,7,4575
+Takawira RDC,8,4576
+Takawira RDC,8,4577
+Takawira RDC,9,4578
+Takawira RDC,9,4579
+Takawira RDC,10,4580
+Takawira RDC,10,4581
+Takawira RDC,11,4582
+Takawira RDC,11,4583
+Takawira RDC,12,4584
+Takawira RDC,13,4585
+Takawira RDC,13,4586
+Takawira RDC,14,4587
+Takawira RDC,14,4588
+Takawira RDC,15,4589
+Takawira RDC,15,4590
+Takawira RDC,16,4591
+Takawira RDC,16,4592
+Takawira RDC,17,4593
+Takawira RDC,17,4594
+Takawira RDC,17,4595
+Takawira RDC,18,4596
+Takawira RDC,18,4597
+Takawira RDC,18,4598
+Takawira RDC,19,4599
+Takawira RDC,20,4600
+Takawira RDC,20,4601
+Takawira RDC,21,4602
+Takawira RDC,21,4603
+Takawira RDC,22,4604
+Takawira RDC,22,4605
+Takawira RDC,22,4606
+Takawira RDC,23,4607
+Takawira RDC,23,4608
+Takawira RDC,24,4609
+Takawira RDC,24,4610
+Takawira RDC,25,4611
+Takawira RDC,25,4612
+Tongogara RDC,1,4613
+Tongogara RDC,1,4614
+Tongogara RDC,2,4615
+Tongogara RDC,2,4616
+Tongogara RDC,3,4617
+Tongogara RDC,3,4618
+Tongogara RDC,4,4619
+Tongogara RDC,4,4620
+Tongogara RDC,5,4621
+Tongogara RDC,5,4622
+Tongogara RDC,6,4623
+Tongogara RDC,6,4624
+Tongogara RDC,7,4625
+Tongogara RDC,7,4626
+Tongogara RDC,8,4627
+Tongogara RDC,8,4628
+Tongogara RDC,8,4629
+Tongogara RDC,9,4630
+Tongogara RDC,9,4631
+Tongogara RDC,10,4632
+Tongogara RDC,10,4633
+Tongogara RDC,11,4634
+Tongogara RDC,11,4635
+Tongogara RDC,12,4636
+Tongogara RDC,12,4637
+Tongogara RDC,13,4638
+Tongogara RDC,13,4639
+Tongogara RDC,14,4640
+Tongogara RDC,14,4641
+Tongogara RDC,15,4642
+Tongogara RDC,15,4643
+Tongogara RDC,16,4644
+Tongogara RDC,16,4645
+Tongogara RDC,17,4646
+Tongogara RDC,17,4647
+Tongogara RDC,17,4648
+Tongogara RDC,18,4649
+Tongogara RDC,18,4650
+Tongogara RDC,19,4651
+Tongogara RDC,19,4652
+Tongogara RDC,20,4653
+Tongogara RDC,20,4654
+Tongogara RDC,21,4655
+Tongogara RDC,21,4656
+Tongogara RDC,22,4657
+Tongogara RDC,22,4658
+Tongogara RDC,23,4659
+Tongogara RDC,23,4660
+Tongogara RDC,24,4661
+Tongogara RDC,24,4662
+Vungu RDC,1,4663
+Vungu RDC,1,4664
+Vungu RDC,1,4665
+Vungu RDC,2,4666
+Vungu RDC,2,4667
+Vungu RDC,2,4668
+Vungu RDC,3,4669
+Vungu RDC,3,4670
+Vungu RDC,3,4671
+Vungu RDC,4,4672
+Vungu RDC,4,4673
+Vungu RDC,4,4674
+Vungu RDC,5,4675
+Vungu RDC,5,4676
+Vungu RDC,6,4677
+Vungu RDC,6,4678
+Vungu RDC,6,4679
+Vungu RDC,6,4680
+Vungu RDC,7,4681
+Vungu RDC,7,4682
+Vungu RDC,7,4683
+Vungu RDC,7,4684
+Vungu RDC,8,4685
+Vungu RDC,8,4686
+Vungu RDC,8,4687
+Vungu RDC,8,4688
+Vungu RDC,8,4689
+Vungu RDC,9,4690
+Vungu RDC,9,4691
+Vungu RDC,9,4692
+Vungu RDC,10,4693
+Vungu RDC,10,4694
+Vungu RDC,11,4695
+Vungu RDC,11,4696
+Vungu RDC,11,4697
+Vungu RDC,12,4698
+Vungu RDC,12,4699
+Vungu RDC,12,4700
+Vungu RDC,13,4701
+Vungu RDC,13,4702
+Vungu RDC,13,4703
+Vungu RDC,14,4704
+Vungu RDC,14,4705
+Vungu RDC,15,4706
+Vungu RDC,15,4707
+Vungu RDC,15,4708
+Vungu RDC,16,4709
+Vungu RDC,16,4710
+Vungu RDC,17,4711
+Vungu RDC,17,4712
+Vungu RDC,17,4713
+Vungu RDC,18,4714
+Vungu RDC,18,4715
+Vungu RDC,18,4716
+Vungu RDC,19,4717
+Vungu RDC,19,4718
+Vungu RDC,19,4719
+Zibagwe RDC,1,4720
+Zibagwe RDC,2,4721
+Zibagwe RDC,3,4722
+Zibagwe RDC,4,4723
+Zibagwe RDC,4,4724
+Zibagwe RDC,5,4725
+Zibagwe RDC,6,4726
+Zibagwe RDC,6,4727
+Zibagwe RDC,7,4728
+Zibagwe RDC,7,4729
+Zibagwe RDC,8,4730
+Zibagwe RDC,8,4731
+Zibagwe RDC,9,4732
+Zibagwe RDC,9,4733
+Zibagwe RDC,9,4734
+Zibagwe RDC,10,4735
+Zibagwe RDC,10,4736
+Zibagwe RDC,10,4737
+Zibagwe RDC,11,4738
+Zibagwe RDC,11,4739
+Zibagwe RDC,11,4740
+Zibagwe RDC,12,4741
+Zibagwe RDC,12,4742
+Zibagwe RDC,12,4743
+Zibagwe RDC,13,4744
+Zibagwe RDC,13,4745
+Zibagwe RDC,14,4746
+Zibagwe RDC,14,4747
+Zibagwe RDC,14,4748
+Zibagwe RDC,15,4749
+Zibagwe RDC,15,4750
+Zibagwe RDC,16,4751
+Zibagwe RDC,16,4752
+Zibagwe RDC,16,4753
+Zibagwe RDC,17,4754
+Zibagwe RDC,17,4755
+Zibagwe RDC,17,4756
+Zibagwe RDC,18,4757
+Zibagwe RDC,18,4758
+Zibagwe RDC,18,4759
+Zibagwe RDC,19,4760
+Zibagwe RDC,19,4761
+Zibagwe RDC,20,4762
+Zibagwe RDC,20,4763
+Zibagwe RDC,21,4764
+Zibagwe RDC,21,4765
+Zibagwe RDC,22,4766
+Zibagwe RDC,22,4767
+Zibagwe RDC,22,4768
+Zibagwe RDC,23,4769
+Zibagwe RDC,23,4770
+Zibagwe RDC,23,4771
+Zibagwe RDC,24,4772
+Zibagwe RDC,24,4773
+Zibagwe RDC,25,4774
+Zibagwe RDC,25,4775
+Zibagwe RDC,26,4776
+Zibagwe RDC,27,4777
+Zibagwe RDC,27,4778
+Zibagwe RDC,28,4779
+Zibagwe RDC,28,4780
+Zibagwe RDC,29,4781
+Zibagwe RDC,29,4782
+Zibagwe RDC,30,4783
+Zibagwe RDC,31,4784
+Zibagwe RDC,31,4785
+Zibagwe RDC,32,4786
+Zibagwe RDC,32,4787
+Zibagwe RDC,33,4788
+Zibagwe RDC,33,4789
+Zibagwe RDC,33,4790
+Zvishavane Town Council,1,4791
+Zvishavane Town Council,1,4792
+Zvishavane Town Council,1,4793
+Zvishavane Town Council,2,4794
+Zvishavane Town Council,2,4795
+Zvishavane Town Council,3,4796
+Zvishavane Town Council,3,4797
+Zvishavane Town Council,4,4798
+Zvishavane Town Council,4,4799
+Zvishavane Town Council,4,4800
+Zvishavane Town Council,4,4801
+Zvishavane Town Council,5,4802
+Zvishavane Town Council,5,4803
+Zvishavane Town Council,5,4804
+Zvishavane Town Council,6,4805
+Zvishavane Town Council,6,4806
+Zvishavane Town Council,6,4807
+Zvishavane Town Council,7,4808
+Zvishavane Town Council,7,4809
+Zvishavane Town Council,7,4810
+Zvishavane Town Council,7,4811
+Zvishavane Town Council,7,4812
+Zvishavane Town Council,8,4813
+Zvishavane Town Council,8,4814
+Zvishavane Town Council,8,4815
+Zvishavane Town Council,8,4816
+Zvishavane Town Council,9,4817
+Zvishavane Town Council,9,4818
+Zvishavane Town Council,9,4819
+Zvishavane Town Council,10,4820
+Zvishavane Town Council,10,4821
+Zvishavane Town Council,10,4822
