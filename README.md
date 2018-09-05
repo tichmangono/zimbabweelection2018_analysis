@@ -2,21 +2,25 @@
 Investigative analysis of Zimbabwe's July 2018 harmonized elections using Python and data from Zimbabwe Electoral Commission (ZEC)
 
 ## Main Files
-There main files are the Excel files in the root folder as well as a JupyterLap Notebook. These have the following functions
-1. ***code_presidential_transform.ipynb** - for the python code to transform source files into convenient, clean format ready for analysis*
-2. ***zimelectionresults2018_analysis_main_citizens.xlsb** - looks at anomalies e.g. extremely high and obviously impossible voter turnout rates like >90%, >95%, >100%.It also compares the official data from the Zimbabwe Electoral Commission with data from Citizen's Manifesto collation, crowdsourced. One of the data files imports data from a googlesheet and needs a regular update process, following which all pivot tables must be refreshed. The tabs in the file are color-coded into 3 groups:*
-      - ***Green tabs** indicate source data*
-      - ***Orange tabs** indicate aggregated data e.g by polling station, constituency, ward, province etc.*
-      - ***Blue tabs** indicate analysis data e.g. high turnnout poling stations and comparison with independent findings when applicable*
-3. ***zimelectionresults2018_bypollingstation.xlsx** - This is the clean, collated, transofrmed version of the source data files for presidential elections*
-
-## Source Files
-- These are located in the folders for presidential, parliamentary etc.
-- The files contain the source data which was tranformed using python and analyzed/explored using excel 
+.
+├── data_clean                                        # pre-processed intermediate data files
+├── data_final                                        # final, cleaned data files
+├── data_source                                       # raw, dirty source data files before cleaning 
+├── lit_review                                        # literature sources to inform election data analysis
+├── 1a_Presidential Elections Report_Zimbabwe 2018    # final 2018 presidential report
+├── 1b_Parliamentary Elections Report_Zimbabwe 2018   # final 2018 parliamentary report
+├── 1c_Presidential Elections Report_Zimbabwe 2013    # final 2013 presidential report
+├── 2a_2018presidential_analysis                      # intermediate 2018 presidential analysis
+├── 2b_2018parliamentary_analysis                     # intermediate 2018 parliamentary analysis
+├── 3a_2018presidential_prep1                         # 1st preparatory code for 2018 presidential election
+├── 3a_2018presidential_prep2                         # 2nd preparatory code for 2018 presidential election
+├── 4_2018parliamentary_prep                          # preparatory code for 2018 parliamentary
+├── 5_2013pres&parly_prep                             # preparatory code for 2013 presidential and parliamentary
+└── README.md                                         # readme file
 
 ## Preliminary Findings:
  - TBD
-### Please check all this for yourself before using!! These are NOT OFFICIAL RESULTS and none of the parties involved in this analysis, nor the sources mentioned will take responsibility for any wrong or inappropriate conclusions drawn from this data and associated analysis
+### Please check all the for yourself before use. These are NOT OFFICIAL RESULTS and none of the parties involved in this analysis, nor the sources mentioned will take responsibility for any wrong or inappropriate conclusions drawn from this data and associated analysis
 
 ## Limitations of this Analysis:
 - TBD
