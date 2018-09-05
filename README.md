@@ -31,16 +31,12 @@ Investigative analysis of Zimbabwe's July 2018 harmonized elections using Python
 
 - **README.md**                                         *(readme file)*
 
+## Disclaimer:
+#### This is not an evaluation of the election process, but an analysis of the official results provided. None of the parties involved in this analysis, nor the sources mentioned will take responsibility for any wrong or inappropriate conclusions drawn from this data and associated analysis.This project is an analytic and intellectual exercise for the public good 
 
 ## Preliminary Findings:
- - TBD
-### Please check all the for yourself before use. These are NOT OFFICIAL RESULTS and none of the parties involved in this analysis, nor the sources mentioned will take responsibility for any wrong or inappropriate conclusions drawn from this data and associated analysis
-
-## Limitations of this Analysis:
-- TBD
-
-## This project is an analytic and intellectual exercise for the public good 
-
+ - See the reports included
+ 
 ## Data Sources/Credit:
 1. Citizens' Manifesto Zimbabwe: http://www.citizens-manifesto.org/
 2. Zimbabwe Electoral Commission: https://www.zec.org.zw/
