@@ -2,21 +2,35 @@
 Investigative analysis of Zimbabwe's July 2018 harmonized elections using Python and data from Zimbabwe Electoral Commission (ZEC)
 
 ## Main Files
-.
-├── data_clean                                        # pre-processed intermediate data files
-├── data_final                                        # final, cleaned data files
-├── data_source                                       # raw, dirty source data files before cleaning 
-├── lit_review                                        # literature sources to inform election data analysis
-├── 1a_Presidential Elections Report_Zimbabwe 2018    # final 2018 presidential report
-├── 1b_Parliamentary Elections Report_Zimbabwe 2018   # final 2018 parliamentary report
-├── 1c_Presidential Elections Report_Zimbabwe 2013    # final 2013 presidential report
-├── 2a_2018presidential_analysis                      # intermediate 2018 presidential analysis
-├── 2b_2018parliamentary_analysis                     # intermediate 2018 parliamentary analysis
-├── 3a_2018presidential_prep1                         # 1st preparatory code for 2018 presidential election
-├── 3a_2018presidential_prep2                         # 2nd preparatory code for 2018 presidential election
-├── 4_2018parliamentary_prep                          # preparatory code for 2018 parliamentary
-├── 5_2013pres&parly_prep                             # preparatory code for 2013 presidential and parliamentary
-└── README.md                                         # readme file
+
+- data_clean                                        (preprocessed intermediate data files)
+
+ - data_final                                        (final, cleaned data files)
+
+ - data_source                                       (raw, dirty source data files before cleaning )
+
+- lit_review                                        (literature sources to inform election data analysis)
+
+- 1a_Presidential Elections Report_Zimbabwe 2018    (final 2018 presidential report)
+
+- 1b_Parliamentary Elections Report_Zimbabwe 2018   (final 2018 parliamentary report)
+
+- 1c_Presidential Elections Report_Zimbabwe 2013    (final 2013 presidential report)
+
+- 2a_2018presidential_analysis                      (intermediate 2018 presidential analysis)
+
+- 2b_2018parliamentary_analysis                     (intermediate 2018 parliamentary analysis)
+
+- 3a_2018presidential_prep1                         (1st preparatory code for 2018 presidential election)
+
+- 3a_2018presidential_prep2                         (2nd preparatory code for 2018 presidential election)
+
+- 4_2018parliamentary_prep                          (preparatory code for 2018 parliamentary)
+
+- 5_2013pres&parly_prep                             (preparatory code for 2013 presidential and parliamentary)
+
+- README.md                                         (readme file)
+
 
 ## Preliminary Findings:
  - TBD
